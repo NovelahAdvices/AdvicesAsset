@@ -4,7 +4,7 @@
       "interval_interstitial": 3,
       "interstitial_type" : "lap",
       "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_crash_when_app_not_live_at_play_store": true,
       "make_app_under_maintenance": false
     },
 
@@ -113,7 +113,78 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
       "description": "Novelah has gained attention for its promise of turning reading into a source of income",
       "link": "https://novelahappaddvices.blogspot.com/p/how-much-money-can-you-earn-from-novelah.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Earning Points on Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Earning Points on Novelah: Strategies for Maximizing Your Income",
+      "link": "https://novelahappaddvices.blogspot.com/p/earning-points-on-novelah-strategies.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "How to Invite Friends on Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "How to Invite Friends on Novelah: Sharing the Reading Experience",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-invite-friends-on-novelah.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "How to Enter an Invite Code on Novelah App",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Simple process of entering an invitation code within the Novelah app.",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-enter-invite-code-on-novelah-app.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How to Withdraw Money from the Novelah App",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": " Steps required to withdraw money from Novelah.",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-withdraw-money-from-novelah-app.html"
+    },
+	{
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Quick Ways to Earn Money from Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": " Here, we'll guide you through strategies that can swiftly enhance your points count, allowing you to earn money more rapidly",
+      "link": "https://novelahappaddvices.blogspot.com/p/quick-ways-to-earn-money-from-novelah.html"
+    },
+	{
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Is Novelah App Free? Unraveling the Cost-Free Experience",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Let's delve into the details and explore whether Novelah truly offers a free experience",
+      "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-app-free.html"
+    },
+	{
+      "id": 12,
+      "name_category": "Guide",
+      "title": "User Reviews: Unveiling the Novelah App's User Feedback",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Curious about what users are saying about this app?",
+      "link": "https://novelahappaddvices.blogspot.com/p/unveiling-novelah-apps-user-feedback.html"
+    },
+	{
+      "id": 13,
+      "name_category": "Guide",
+      "title": "Unlocking the Benefits Novelah App",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Advantages that come with using the Novelah app and how it can elevate your reading experience.",
+      "link": "https://novelahappaddvices.blogspot.com/p/unlocking-benefits.html"
+    },
+	{
+      "id": 14,
+      "name_category": "Guide",
+      "title": "Can I Access the Novelah App on Multiple Devices?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "In today's dynamic digital landscape, flexibility and accessibility are paramount for users seeking seamless experiences across devices",
+      "link": "https://novelahappaddvices.blogspot.com/p/can-i-access-novelah-app-on-multiple.html"
     }
-	
   ]
 }
