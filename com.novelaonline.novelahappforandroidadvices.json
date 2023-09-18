@@ -36,21 +36,15 @@
 
     "enable_banner_ads": true,
     "enable_category": false,
-    "enable_more_app": false
+    "enable_more_app": true
   },
 
   "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "title": "NovelaPlus - Novelah App Hints",
+      "image": "https://play-lh.googleusercontent.com/bzEDGTnWK0y0lg4CPMkaymDK69AssR2t-xFLDmIJiC4bhJCnWjKFLlL_JSCpwoL3PKM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.novelaonline.novelaplusnovelnovelahapphints"
     }
   ],
 
