@@ -25,7 +25,7 @@
   "app_settings": {
     "navigation_mode": "tab_layout_top",
 
-    "recent_fragment_list_view_mode": "grid",
+    "recent_fragment_list_view_mode": "small",
     "favorite_fragment_list_view_mode": "grid",
     "category_fragment_list_view_mode": "grid",
     "category_activity_list_view_mode": "grid",
@@ -69,131 +69,99 @@
   ],
 
   "Data": [
-    {
-      "id": 1,
-      "name_category": "Traveler's Guide",
-      "title": "Tokyo: The Metropolis of Modernity",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Explore the bustling streets, high-tech wonders, and vibrant culture of Tokyo, Japan's capital.",
-      "link": "<p>Embark on a journey to Tokyo, the metropolis of modernity. Discover the bustling streets, high-tech wonders, and vibrant culture of Japan's capital city.</p><p><strong>Cityscape Marvels</strong></p><p>Marvel at Tokyo's iconic cityscape, where skyscrapers and historic temples coexist. Visit the Tokyo Skytree for a panoramic view that will leave you breathless.</p><p><strong>Cultural Encounters</strong></p><p>Immerse yourself in Tokyo's cultural richness. Explore the historic Asakusa district and witness the grandeur of Senso-ji Temple.</p><p><strong>Harajuku Fashion</strong></p><p>Experience the eclectic and colorful world of Harajuku fashion. Takeshita Street is a paradise for fashion enthusiasts.</p><p><strong>Culinary Delights</strong></p><p>Savor Tokyo's culinary delights, from sushi at Tsukiji Fish Market to ramen in Shinjuku. The city offers a feast for every palate.</p><p><strong>Your Tokyo Adventure Awaits</strong></p><p>In conclusion, Tokyo is a city where tradition and innovation converge. Whether you're a tech enthusiast, a history buff, or a foodie, Tokyo promises an unforgettable adventure.</p>"
-    },
-    {
-      "id": 2,
-      "name_category": "Traveler's Guide",
-      "title": "Kyoto: Where Tradition Meets Tranquility",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Discover the timeless beauty, serene temples, and rich traditions of Kyoto, Japan's cultural heart.",
-      "link": "<p>Explore Kyoto, where tradition meets tranquility. Discover the timeless beauty, serene temples, and rich cultural traditions of Japan's ancient capital.</p><p><strong>Historic Temples</strong></p><p>Visit Kyoto's historic temples, including Kinkaku-ji (Golden Pavilion) and Fushimi Inari Taisha. Each temple is a masterpiece of architecture and spirituality.</p><p><strong>Arashiyama Bamboo Grove</strong></p><p>Wander through the enchanting Arashiyama Bamboo Grove, a natural wonder that transports you to another world. Nearby, you'll find the mesmerizing Arashiyama Monkey Park.</p><p><strong>Kimono and Geisha Culture</strong></p><p>Don a kimono and wander the streets of Gion, Kyoto's historic geisha district. Witness the grace and artistry of geisha and maiko as they gracefully move through the streets.</p><p><strong>Your Kyoto Adventure Awaits</strong></p><p>In conclusion, Kyoto is a city where tradition and tranquility come together in perfect harmony. Whether you're a history buff, a nature lover, or simply seeking a serene escape, Kyoto promises an unforgettable adventure.</p>"
-    },
-    {
-      "id": 3,
-      "name_category": "Traveler's Guide",
-      "title": "Hiroshima: A City of Resilience",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Visit Hiroshima, a city that symbolizes resilience, peace, and hope for a better future.",
-      "link": "<p>Hiroshima, a city forever etched in history, is a testament to the indomitable human spirit. Join us in exploring Hiroshima's resilience, peace, and hope for a better future.</p><p><strong>Hiroshima Peace Memorial</strong></p><p>Pay your respects at the Hiroshima Peace Memorial (Atomic Bomb Dome), a UNESCO World Heritage Site that serves as a poignant reminder of the city's past and its commitment to peace.</p><p><strong>Museum of Hope</strong></p><p>Visit the Hiroshima Peace Memorial Museum, which provides a moving account of the atomic bombing and its aftermath. It's a place of remembrance, education, and hope.</p><p><strong>Miyajima Island</strong></p><p>Take a short ferry ride to Miyajima Island, home to the iconic Itsukushima Shrine and the friendly deer that roam freely. The floating  torii gate is a sight to behold.</p><p><strong>Culinary Delights</strong></p><p>Savor Hiroshima's local delicacies, including okonomiyaki (savory pancake) and oysters. The city's culinary scene is a reflection of its resilience and recovery.</p><p><strong>Embrace Hiroshima's Spirit</strong></p><p>In conclusion, Hiroshima is a city that has risen from the ashes to become a beacon of peace and resilience. By visiting Hiroshima, you embrace the spirit of hope and a brighter future.</p>"
-    },
-    {
-      "id": 4,
-      "name_category": "Traveler's Guide",
-      "title": "Osaka: Where Food and Fun Collide",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Experience the vibrant street food culture and lively entertainment in Osaka, Japan's kitchen.",
-      "link": "<p>Osaka, often called Japan 's kitchen, is a city where food and fun collide. Join us in experiencing the vibrant street food culture and lively entertainment of Osaka.</p><p><strong>Dotonbori Delights</strong></p><p>Explore the bustling streets of Dotonbori, where colorful signs and mouthwatering aromas beckon. Try takoyaki (octopus balls), okonomiyaki, and other local treats.</p><p><strong>Osaka Castle</strong></p><p>Visit Osaka Castle, a historic landmark surrounded by beautiful gardens. Learn about the city's rich history and enjoy panoramic views from the castle tower. < /p><p><strong>Universal Studios Japan</strong > < /p><p>Have a blast at Universal Studios Japan, where thrilling rides and beloved characters come to life. It's a world of entertainment for all ages.</p > < p > < strong > Nightlife and Entertainment < /strong></p > < p > Experience Osaka 's vibrant nightlife in the Namba district. Karaoke, comedy clubs, and live music venues ensure you ll have a fantastic evening. < /p><p><strong>Your Osaka Adventure Awaits</strong > < /p><p>In conclusion, Osaka is a city of endless entertainment and delectable delights. Whether you're a foodie, a thrill-seeker, or a traveler in search of fun, Osaka promises an unforgettable adventure.</p > "
-    },
-    {
-      "id": 5,
-      "name_category": "Traveler's Guide",
-      "title": "Nara: Where Nature and History Unite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Discover the enchanting city of Nara, where friendly deer and ancient temples create a harmonious blend of nature and history.",
-      "link": "<p>Explore Nara, a city where nature and history unite in perfect harmony. Discover the enchanting world of friendly deer and ancient temples that define Nara's charm.</p><p><strong>Nara Park's Deer</strong></p><p>Meet the friendly deer of Nara Park, considered sacred and protected as national treasures. You can feed and interact with these gentle creatures.</p><p><strong>Todai-ji Temple</strong></p><p>Visit Todai-ji Temple, home to the Great Buddha Hall and the world's largest bronze statue of Buddha. It's a masterpiece of Japanese architecture.</p><p><strong>Kasuga Taisha Shrine</strong></p><p>Explore Kasuga Taisha Shrine, known for its enchanting lantern-lined paths. The shrine's vibrant vermilion color is a sight to behold.</p><p><strong>Nara's Natural Beauty</strong></p><p>Enjoy the natural beauty of Nara's lush parks and gardens. Isuien Garden and Yoshikien Garden are perfect for a tranquil stroll.</p><p><strong>Your Nara Adventure Awaits</strong></p><p>In conclusion, Nara is a city where nature and history come together in perfect unity. Whether you're an animal lover, a history enthusiast, or simply seeking serenity, Nara promises an unforgettable adventure.</p>"
-    },
-    {
-      "id": 6,
-      "name_category": "Traveler's Guide",
-      "title": "Hokkaido: Japan's Northern Wonderland",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Explore the breathtaking landscapes, wildlife, and outdoor adventures of Hokkaido, Japan's northern wonderland.",
-      "link": "<p>Discover Hokkaido, Japan's northern wonderland, where breathtaking landscapes, wildlife, and outdoor adventures await. Join us in exploring the beauty of Japan's northernmost island.</p><p><strong>Diverse Landscapes</strong></p><p>Explore Hokkaido's diverse landscapes, from the pristine shores of Lake Toya to the rugged beauty of Daisetsuzan National Park. It's a paradise for nature lovers.</p><p><strong>Wildlife Encounters</strong></p><p>Encounter Hokkaido's wildlife, including the famous red-crowned cranes of Kushiro and the adorable Ezo brown bears. Wildlife enthusiasts will be in awe.</p><p><strong>Outdoor Adventures</strong></p><p>Embark on outdoor adventures in Hokkaido, from skiing in Niseko to hiking the Shiretoko Peninsula. There's an activity for every season.</p><p><strong>Culinary Delights</strong></p><p>Savor Hokkaido's culinary delights, including fresh seafood, dairy products, and the renowned Sapporo ramen. It's a gastronomic journey.</p><p><strong>Your Hokkaido Adventure Awaits</strong></p><p>In conclusion, Hokkaido is a land of natural wonders and outdoor excitement. Whether you're an adventurer, a wildlife enthusiast, or a food lover, Hokkaido promises an unforgettable adventure.</p>"
-    },
-    {
-      "id": 7,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Gardens: Where Nature and Serenity Meet",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Explore the exquisite beauty and tranquility of Japanese gardens, where nature and serenity harmonize.",
-      "link": "<p>Explore the exquisite beauty and tranquility of Japanese gardens, where nature and serenity harmonize in perfect balance. Join us in discovering the wonders of these peaceful landscapes.</p><p><strong>Nature's Harmony</strong></p><p>Japanese gardens change with the seasons, offering cherry blossoms in spring, lush greenery in summer, fiery foliage in autumn, and serene snowscapes in winter.</p><p><strong>Your Garden Journey Begins</strong></p><p>In conclusion, Japanese gardens are a testament to the country's deep appreciation for nature and aesthetics. Whether you seek serenity, inspiration, or simply a connection with nature, Japanese gardens have much to offer.</p>"
-    },
-    {
-      "id": 8,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Cuisine: A Culinary Odyssey",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Embark on a culinary odyssey through the diverse and delectable world of Japanese cuisine.",
-      "link": "<p>Embark on a culinary odyssey through the diverse and delectable world of Japanese cuisine. Join us in savoring the flavors and traditions of Japan's remarkable culinary heritage.</p><p><strong>Sushi and Sashimi</strong></p><p>Indulge in the art of sushi and sashimi, where the freshest ingredients are transformed into exquisite bites of perfection. Visit a sushiya (sushi restaurant) for an authentic experience.</p><p><strong>Ramen Adventures</strong></p><p>Explore the world of ramen, from rich tonkotsu broth to savory miso ramen. Each region of Japan offers its own take on this beloved comfort food.</p><p><strong>Tempura Delights</strong></p><p>Savor the crispy perfection of tempura, where delicate ingredients are lightly battered and fried to golden perfection. It's a culinary masterpiece.</p><p><strong>Kaiseki Cuisine</strong></p><p>Experience the art of kaiseki cuisine, a multi-course meal that showcases seasonal ingredients and culinary craftsmanship. It's a feast for the senses.</p><p><strong>Culinary Discovery Awaits</strong></p><p>In conclusion, Japanese cuisine is a journey of culinary discovery. Whether you're a food aficionado or simply curious, Japan's diverse flavors will captivate your taste buds.</p>"
-    },
-    {
-      "id": 9,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Festivals: Celebrating Culture and Tradition",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Immerse yourself in the vibrant celebrations of Japanese festivals, where culture and tradition come to life.",
-      "link": "<p>Immerse yourself in the vibrant celebrations of Japanese festivals, where culture and tradition come to life in a whirlwind of color and excitement. Join us in experiencing the magic of these festive moments.</p><p><strong>Matsuri Magic</strong></p><p>Discover the excitement of Japanese matsuri (festivals), where lively processions, traditional performances, and delicious street food create an unforgettable atmosphere.</p><p><strong>Cherry Blossom Festivals</strong></p><p>Celebrate the arrival of spring with cherry blossom festivals (hanami). These gatherings beneath blooming sakura trees are a symbol of renewal and beauty.</p><p><strong>Obon Festival</strong></p><p>Participate in the Obon Festival, a time to honor ancestors and celebrate their spirits. Bon odori (folk dances) and lantern displays are integral to this tradition.</p><p><strong>Fireworks Extravaganzas</strong></p><p>Witness the brilliance of Japanese fireworks (hanabi) during summer festivals. These dazzling displays light up the night sky and are a true spectacle.</p><p><strong>Your Festival Adventure Awaits</strong></p><p>In conclusion, Japanese festivals are a celebration of culture and tradition. Whether you're a culture enthusiast, a food lover, or simply seeking joy, these festivals promise an unforgettable adventure.</p>"
-    },
-    {
-      "id": 10,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Onsen: Soothing the Body and Soul",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Relax and rejuvenate in the healing waters of Japanese onsen, where tranquility and wellness await.",
-      "link": "<p>Relax and rejuvenate in the healing waters of Japanese onsen, where tranquility and wellness await. Join us in experiencing the restorative power of these natural hot springs.</p><p><strong>Onsen Serenity</strong></p><p>Discover the serenity of Japanese onsen, nestled amidst picturesque landscapes. Soak in the therapeutic waters and let your cares melt away.</p><p><strong>Types of Onsen</strong></p><p>Explore various types of onsen, from open-air rotenburo to rustic senninburo. Each offers a unique bathing experience and connection with nature.</p><p><strong>Onsen Etiquette</strong></p><p>Learn about onsen etiquette, including bathing customs and the importance of relaxation. It's a cultural experience that fosters inner peace.</p><p><strong>Wellness and Renewal</strong></p><p>Experience the wellness benefits of onsen, from improved circulation to stress relief. Many believe in the healing properties of these mineral-rich waters.</p><p><strong>Your Onsen Journey Awaits</strong></p><p>In conclusion, Japanese onsen offer a journey of relaxation and renewal. Whether you seek tranquility, wellness, or a deep connection with nature, onsen provide a serene escape.</p>"
-    },
+  {
+	   "id": 1,
+		"name_category": "Guide",
+		"title": "How to Create AI Yearbook Photos",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "The first step to master the AI Yearbook photo trend is to download a specialized AI photo editing app that offers yearbook photo effects",
+		"link": "https://novelahappaddvices.blogspot.com/p/how-to-create-ai-yearbook-photos.html"
+  },
+  {
+	   "id": 2,
+		"name_category": "Guide",
+		"title": "Exploring the World of AI Yearbook Photos",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Exploring what they are and how they allow you to transform your current photos into vintage masterpieces",
+		"link": "https://novelahappaddvices.blogspot.com/p/exploring-world-of-ai-yearbook-photos.html"
+  },
+  {
+	   "id": 3,
+		"name_category": "Guide",
+		"title": "AI Yearbook Trend: A Step-by-Step Guide",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Let's take a closer look at how you can craft your own timeless portraits with a simple step-by-step guide",
+		"link": "https://novelahappaddvices.blogspot.com/p/ai-yearbook-trend-step-by-step-guide.html"
+  },
+  {
+	   "id": 4,
+		"name_category": "Guide",
+		"title": "Advantages of EPIK for AI Yearbook Photos",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Exploring the Advantages of EPIK for AI Yearbook Photos",
+		"link": "https://novelahappaddvices.blogspot.com/p/advantages-of-epik-for-ai-yearbook.html"
+  },
+  {
+	   "id": 5,
+		"name_category": "Guide",
+		"title": "Unveiling the AI Yearbook Trend: A Creative Revolution",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Leading the charge in this exciting trend is the Epik AI Photo Editor, a pioneering platform that empowers users to seamlessly bring their AI yearbook visions to life",
+		"link": "https://novelahappaddvices.blogspot.com/p/unveiling-ai-yearbook-trend-creative.html"
+  },
+  {
+	   "id": 6,
+		"name_category": "Guide",
+		"title": "How the AI Yearbook Trend Transforms Photos",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Unlocking the Magic: How the AI Yearbook Trend Transforms Photos",
+		"link": "https://novelahappaddvices.blogspot.com/p/how-ai-yearbook-trend-transforms-photos.html"
+  },
+  {
+	   "id": 7,
+		"name_category": "Guide",
+		"title": "Popularity of the AI Yearbook Trend",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Unveiling the Popularity of the AI Yearbook Trend",
+		"link": "https://novelahappaddvices.blogspot.com/p/popularity-of-ai-yearbook-trend.html"
+  },
+  {
+	   "id": 8,
+		"name_category": "Guide",
+		"title": "Celebrities Embrace the Allure of the AI Yearbook Trend",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "The AI yearbook trend isn't confined to the masses; it has transcended into the realm of the stars, captivating the attention of celebrities worldwide",
+		"link": "https://novelahappaddvices.blogspot.com/p/celebrities-embrace-allure-of-ai.html"
+  },
+  {
+	   "id": 9,
+		"name_category": "Guide",
+		"title": "Privacy Concerns and Crediting Issues in the AI Yearbook Trend",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Navigating Privacy Concerns and Crediting Issues in the AI Yearbook Trend",
+		"link": "https://novelahappaddvices.blogspot.com/p/privacy-concerns-and-crediting-issues.html"
+  },
+  {
+	   "id": 10,
+		"name_category": "Guide",
+		"title": "Unlocking the Future: What Lies Ahead for AI Yearbooks",
+		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+		"description": "Here's a glimpse into what the future holds for AI yearbooks",
+		"link": "https://novelahappaddvices.blogspot.com/p/unlocking-future-what-lies-ahead-for-ai.html"
+  },
     {
       "id": 11,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Calligraphy: The Art of Expression",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Discover the artistry and symbolism of Japanese calligraphy, where strokes of ink convey deep emotions and meaning.",
-      "link": "<p>Discover the artistry and symbolism of Japanese calligraphy, where strokes of ink convey deep emotions and meaning. Join us in exploring the world of this captivating form of artistic expression.</p><p><strong>The Beauty of Brushwork</strong></p><p>Appreciate the beauty of brushwork in Japanese calligraphy, where every stroke is deliberate and carries artistic significance.</p><p><strong>Meaningful Characters</strong></p><p>Explore the meanings behind kanji characters and their role in conveying messages, emotions, and philosophical ideas.</p><p><strong>Calligraphy Masters</strong></p><p>Learn about renowned calligraphy masters who have made significant contributions to this art form. Their works are celebrated for their beauty and insight.</p><p><strong>Calligraphy as Meditation</strong></p><p>Discover how Japanese calligraphy serves as a form of meditation, allowing practitioners to find inner peace and mindfulness through artistic expression.</p><p><strong>Your Calligraphy Journey Begins</strong></p><p>In conclusion, Japanese calligraphy is a profound art form that captures the essence of expression. Whether you're an art enthusiast, a seeker of meaning, or simply curious, calligraphy offers a window into Japan's rich cultural heritage.</p>"
-    },
-    {
-      "id": 12,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Tea Ceremony: The Way of Harmony",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Experience the grace and mindfulness of the Japanese tea ceremony, where every gesture reflects the way of harmony.",
-      "link": "<p>Experience the grace and mindfulness of the Japanese tea ceremony, where every gesture reflects the way of harmony and respect. Join us in discovering the traditions of this timeless ritual.</p><p><strong>Tea as Art</strong></p><p>Appreciate tea as an art form in the Japanese tea ceremony. From the preparation of matcha to the graceful serving, every step embodies grace and mindfulness.</p><p><strong>Historical Significance</strong></p><p>Learn about the historical significance of the Japanese tea ceremony and its connection to Zen Buddhism and samurai culture.</p><p><strong>Tea Houses and Gardens</strong></p><p>Visit traditional tea houses and gardens where the tea ceremony is performed. These serene settings enhance the overall experience.</p><p><strong>Tea Masters</strong></p><p>Discover the role of tea masters, who have dedicated their lives to perfecting the art of the tea ceremony. Their expertise ensures a memorable and authentic experience.</p><p><strong>Your Tea Ceremony Journey Awaits</strong></p><p>In conclusion, the Japanese tea ceremony is a timeless ritual that embodies harmony, respect, and mindfulness. Whether you're a tea connoisseur, a seeker of serenity, or simply curious, the tea ceremony offers a profound cultural experience.</p>"
-    },
-    {
-      "id": 13,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Kimono: A Symphony of Silk",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Explore the artistry and elegance of the Japanese kimono, a symbol of tradition and timeless beauty.",
-      "link": "<p>Explore the artistry and elegance of the Japanese kimono, a symbol of tradition and timeless beauty. Join us in discovering the rich history and cultural significance of this iconic garment.</p><p><strong>Kimono as Wearable Art</strong></p><p>Appreciate the kimono as wearable art, where intricate designs and vibrant colors reflect the seasons and occasions.</p><p><strong>Historical Evolution</strong></p><p>Learn about the historical evolution of the kimono, from its origins to modern adaptations. Each era has left its mark on this iconic garment.</p><p><strong>Kimono Types</strong></p><p>Explore different types of kimono, including formal furisode, casual yukata, and the elegant uchikake. Each serves a unique purpose and carries its own charm.</p><p><strong>Kimono in Contemporary Culture</strong></p><p>Discover how the kimono continues to influence contemporary fashion and art. Its timeless appeal transcends generations.</p><p><strong>Your Kimono Journey Begins</strong></p><p>In conclusion, the Japanese kimono is a symphony of silk that resonates with tradition and beauty. Whether you're a fashion enthusiast, a history buff, or simply captivated by elegance, the kimono offers a glimpse into Japan's cultural heritage.</p>"
-    },
-    {
-      "id": 14,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Architecture: Tradition Meets Innovation",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Witness the seamless blend of tradition and innovation in Japanese architecture, where every structure tells a story.",
-      "link": "<p>Witness the seamless blend of tradition and innovation in Japanese architecture, where every structure tells a story of craftsmanship and cultural significance. Join us in exploring the world of architectural wonders.</p><p><strong>Ancient Temples and Shrines</strong></p><p>Visit ancient temples and shrines, including the historic Horyu-ji Temple and the awe-inspiring Ise Grand Shrine. These architectural marvels are steeped in history.</p><p><strong>Modern Architectural Icons</strong></p><p>Explore modern architectural icons like Tokyo Skytree, a testament to contemporary design and engineering. The skyline of Japan showcases innovation.</p><p><strong>Traditional Ryokan</strong></p><p>Experience the charm of traditional ryokan (inns) with their tatami mat rooms and minimalist design. It's a glimpse into the past.</p><p><strong>Architectural Innovation</strong></p><p>Discover how Japanese architects push the boundaries of innovation in sustainable design, from eco-friendly homes to cutting-edge museums.</p><p><strong>Your Architectural Journey Awaits</strong></p><p>In conclusion, Japanese architecture is a fusion of tradition and innovation. Whether you're an architecture enthusiast, a history lover, or simply curious, Japan's buildings are a testament to its rich cultural heritage and future-focused design.</p>"
-    },
-    {
-      "id": 15,
-      "name_category": "Traveler's Guide",
-      "title": "Japanese Gardens: Where Nature and Serenity Meet",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-7MXsFK11SazlDtPqPMww0KGsANiiHQWHrUGMGM37NBaOIvIisFZbNMobQccA_FR2XC0T5fZxYbBDS9R09O5auMcOf8IhHLs-YEjnG-M92vPVWGJKr4zkwZnZyi1s0p2D_jcOArCQMg4LSQLCaVS-voWJKJXblyomlBsWW3oRM9spSlAYd2kMWr_JoBk/s320/visitjapan.png",
-      "description": "Explore the exquisite beauty and tranquility of Japanese gardens, where nature and serenity harmonize.",
-      "link": "<p>Explore the exquisite beauty and tranquility of Japanese gardens, where nature and serenity harmonize in perfect balance. Join us in discovering the wonders of these peaceful landscapes.</p><p><strong>Nature's Harmony</strong></p><p>Japanese gardens change with the seasons, offering cherry blossoms in spring, lush greenery in summer, fiery foliage in autumn, and serene snowscapes in winter.</p><p><strong>Your Garden Journey Begins</strong></p><p>In conclusion, Japanese gardens are a testament to the country's deep appreciation for nature and aesthetics. Whether you seek serenity, inspiration, or simply a connection with nature, Japanese gardens have much to offer.</p>"
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
+      "description": "Demystifying AI Yearbooks: Common Questions Answered",
+      "link": "https://novelahappaddvices.blogspot.com/p/demystifying-ai-yearbooks-common.html"
     }
   ],
 
   "enable_data_2": true,
   "data_2_title": "Novelah App Advices",
-  "data_2_image_button": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQiYU491JVTIiu9qoITlEa6YajufOJuojd-T4YvxSQkitnzDyHNRUgIEy40a7KJqC7IyfjfgxTmlUx-Ckvpag17eGugW1E9UknvFN68tj1i1hsAkEeh2iWTPCzs1LoW3pUytScp4EDpE9W_XLHVt1fI8Iu4VmZizkOZcAftIyYC92vTIwXBsNbUOqEWA/s320/novelabutton.png",
+  "data_2_image_button": "file:///android_asset/image/novelabutton.png",
 
   "Data2": [{
     "id": 1,
