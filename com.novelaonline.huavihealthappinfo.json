@@ -1,261 +1,261 @@
 {
-    "ads": {
-        "settings": {
-            "interval_interstitial": 3,
-            "interstitial_type": "lap",
-            "switch_ads_type": "only_banner",
-            "make_app_crash_when_app_not_live_at_play_store": false,
-            "make_app_under_maintenance": false,
-            "rate_dialog_count": 99999
-        },
-        "ad_network": [
-            {
-                "name": "-",
-                "value": 1,
-                "appId_appKey_publisherId_gameId": "-",
-                "banner": "-",
-                "mrec": "-",
-                "inter": "-",
-                "native_ad": "-",
-                "open_ad": "-",
-                "splash_ad": false
-            }
-        ]
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type": "lap",
+      "switch_ads_type": "only_banner",
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false,
+      "rate_dialog_count": 99999
     },
-    "app_settings": {
-        "navigation_mode": "tab_layout_top",
-        "recent_fragment_list_view_mode": "small",
-        "favorite_fragment_list_view_mode": "grid",
-        "category_fragment_list_view_mode": "grid",
-        "category_activity_list_view_mode": "grid",
-        "hide_short_desc_category_activity_list": false,
-        "item_interval_native_ad_list": 4,
-        "enable_banner_ads": true,
-        "enable_category": false,
-        "enable_more_app": false
-    },
-    "More": [
-        {
-            "id": 1,
-            "title": "IQ Test vs The Moron Test",
-            "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-        },
-        {
-            "id": 2,
-            "title": "Skins Editor for Minecraft PE",
-            "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-        }
-    ],
-    "Categories": [
-        {
-            "id": 1,
-            "name_category": "Playstore",
-            "image": "file:///android_asset/image/image1.png"
-        },
-        {
-            "id": 2,
-            "name_category": "Tutorial",
-            "image": "file:///android_asset/image/image2.webp"
-        },
-        {
-            "id": 3,
-            "name_category": "Reskin",
-            "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-        }
-    ],
-    "Data": [
-        [
-            {
-                "id": 1,
-                "name_category": "Health & Wellness",
-                "title": "The Importance of Regular Exercise",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Regular exercise is essential for maintaining good health. Discover the numerous benefits of staying active and incorporating exercise into your daily routine.",
-                "link": "<p><strong>The Importance of Regular Exercise</strong></p><p>Physical activity is an integral part of a healthy lifestyle. Regular exercise provides numerous benefits for our physical, mental, and emotional well-being. It's not just about getting in shape; it's about improving the quality of our lives. In this article, we'll explore the importance of regular exercise and why it should be a fundamental part of our daily routines.</p><h2>Physical Health</h2><p>Regular exercise is synonymous with better physical health. It strengthens the cardiovascular system, improves lung function, and enhances our body's ability to transport oxygen. This leads to increased energy levels and improved endurance. Exercise also plays a crucial role in weight management, as it helps burn calories and build lean muscle mass.</p><p>Moreover, physical activity reduces the risk of chronic diseases such as heart disease, diabetes, and hypertension. It can also alleviate symptoms in those already suffering from these conditions. For example, exercise helps lower blood pressure, control blood sugar levels, and manage cholesterol levels. It's a natural way to improve overall health and reduce the burden on the healthcare system.</p><h2>Mental Well-Being</h2><p>Exercise isn't just about pumping iron or running laps; it's a potent mood enhancer. Regular physical activity triggers the release of endorphins, often referred to as feel-good hormones. These chemicals in our brain help reduce symptoms of anxiety, depression, and stress. In fact, exercise is often recommended as part of a treatment plan for these conditions.</p><p>Additionally, physical activity boosts cognitive function and memory. It enhances brain health by increasing blood flow and promoting the growth of new brain cells. This is why it's often said that exercise is like a miracle drug for the brain. It helps you think clearer, stay focused, and be more productive.</p><h2>Emotional Balance</h2><p>Our emotional well-being is closely tied to our physical health and mental state. Regular exercise helps maintain emotional balance by reducing feelings of irritability and anger. It provides an outlet for stress and promotes relaxation. People who exercise regularly tend to sleep better, which in turn improves their emotional stability.</p><p>Exercise also fosters a sense of accomplishment. As you set and achieve fitness goals, it can boost your self-esteem and self-confidence. This positive self-image carries over into other aspects of your life, leading to a happier and more fulfilling existence.</p><h2>Social Interaction</h2><p>Many forms of exercise are done in a group or social setting. Whether you join a sports team, attend group fitness classes, or simply go for a walk with a friend, exercise can be a highly social activity. These interactions contribute to our emotional well-being by providing a sense of belonging and support.</p><h2>Conclusion</h2><p>Regular exercise isn't a luxury; it's a necessity for a healthy and happy life. By prioritizing physical activity in your daily routine, you can enjoy improved physical health, a sharper mind, emotional balance, and better social connections. It's a small investment with enormous returns. So, lace up those sneakers, hit the gym, or head out for a run—your body and mind will thank you.</p>"
-            },
-            {
-                "id": 2,
-                "name_category": "Health & Wellness",
-                "title": "Nutrition Tips for a Balanced Diet",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Eating a balanced diet is key to good health. Explore essential nutrition tips and learn how to make healthier food choices for a nourished body.",
-                "link": "<p><strong>Nutrition Tips for a Balanced Diet</strong></p><p>Proper nutrition is the cornerstone of good health. Maintaining a balanced diet is essential for overall well-being. In this article, we'll provide valuable tips to help you achieve a diet that supports your health and vitality.</p><h2>1. Eat a Variety of Foods</h2><p>One of the keys to a balanced diet is diversity. Consume a wide range of foods from all food groups, including fruits, vegetables, grains, protein sources, and dairy or dairy alternatives. Each type of food provides different nutrients, so by diversifying your intake, you'll ensure your body receives a broad spectrum of essential vitamins and minerals.</p><h2>2. Portion Control</h2><p>Controlling your portion sizes is vital to prevent overeating. Pay attention to recommended serving sizes and use measuring tools if necessary. Portion control helps you maintain a healthy weight and avoid excess calorie intake, which can lead to weight-related health issues.</p><h2>3. Hydration Matters</h2><p>Staying hydrated is often overlooked but is crucial for your health. Drink plenty of water throughout the day. It's calorie-free and aids in digestion, nutrient transport, and temperature regulation. Avoid excessive sugary drinks and opt for water, herbal teas, or other low-calorie beverages.</p><h2>4. Include Fiber-Rich Foods</h2><p>Fiber is essential for digestive health. Include fiber-rich foods like whole grains, legumes, fruits, and vegetables in your diet. Fiber promotes regular bowel movements and can lower the risk of certain diseases, such as heart disease and type 2 diabetes.</p><h2>5. Limit Added Sugars</h2><p>Excessive added sugars in your diet can lead to health problems, including obesity and dental issues. Be mindful of sugary snacks, sugary drinks, and foods with hidden sugars. Read food labels to identify sources of added sugars, and reduce your consumption of these items.</p><h2>6. Choose Healthy Fats</h2><p>Not all fats are bad for you. Opt for healthy fats like those found in nuts, seeds, avocados, and fatty fish. These fats can support heart health and provide essential fatty acids for your body's functions. Limit saturated and trans fats found in fried and processed foods.</p><h2>7. Balanced Meals</h2><p>Aim for balanced meals that include a combination of macronutrients. Each meal should have a source of protein, carbohydrates, and healthy fats. This approach helps stabilize blood sugar levels and keeps you feeling full and satisfied.</p><h2>8. Don't Skip Breakfast</h2><p>Breakfast is the most important meal of the day. It kick-starts your metabolism and provides the energy needed for the day ahead. A nutritious breakfast with protein, whole grains, and fruits or vegetables sets a positive tone for your dietary choices.</p><h2>9. Plan Ahead</h2><p>Planning your meals in advance can help you make healthier choices. Prepare balanced meals and snacks to have on hand when hunger strikes. This reduces the temptation to opt for fast food or unhealthy convenience options.</p><h2>10. Be Mindful of Emotional Eating</h2><p>Recognize the difference between physical hunger and emotional eating. Don't use food as a coping mechanism for stress, boredom, or other emotions. Find alternative ways to address emotional needs, such as exercise, relaxation techniques, or talking to a friend.</p><h2>Conclusion</h2><p>Achieving a balanced diet is an essential component of a healthy lifestyle. By following these nutrition tips and being mindful of what you eat, you can support your well-being, maintain a healthy weight, and reduce the risk of chronic diseases. Your body will thank you for nourishing it with the right foods.</p>"
-            },
-            {
-                "id": 3,
-                "name_category": "Fitness & Exercise",
-                "title": "Effective Ways to Stay Motivated for Workouts",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Maintaining workout motivation can be challenging. Learn effective strategies to stay motivated and achieve your fitness goals.",
-                "link": "<p><strong>Effective Ways to Stay Motivated for Workouts</strong> Motivation is the key to maintaining a consistent workout routine. Discover effective strategies to keep yourself motivated for workouts and achieve your fitness goals. <h2>1. Set Clear Goals</h2> Establish specific fitness goals to work toward. Whether it's weight loss, muscle gain, or improved endurance, having a clear objective provides motivation and direction for your workouts. <h2>2. Create a Workout Schedule</h2> Plan your workouts in advance and stick to a schedule. Consistency is vital for progress. Having designated workout times helps you build a habit and reduces the likelihood of procrastination. <h2>3. Find an Accountability Partner</h2> Workout with a friend or find an accountability partner who shares your fitness goals. You can motivate each other, celebrate achievements, and provide support on challenging days. <h2>4. Vary Your Routine</h2> Prevent workout monotony by changing your routine. Incorporate different exercises, try new fitness classes, or explore various workout styles to keep things fresh and exciting. <h2>5. Reward Yourself</h2> Set up a reward system for reaching milestones. Treat yourself to something you enjoy when you achieve a fitness goal. Rewards can be a powerful motivator. <h2>6. Track Your Progress</h2> Keep a workout journal or use fitness tracking apps to monitor your progress. Seeing improvements in strength, endurance, or weight loss can boost your motivation. <h2>7. Stay Informed</h2> Learn about fitness and nutrition to enhance your understanding. Knowing the benefits of your efforts can be motivating. Consider consulting with a fitness expert for guidance. <h2>8. Visualize Success</h2> Visualize yourself achieving your fitness goals. Imagine the satisfaction and benefits of your hard work. This mental imagery can provide a powerful motivational push. <h2>9. Join a Fitness Community</h2> Become part of a fitness community or an online fitness group. Sharing experiences and connecting with others who have similar goals can be inspiring. <h2>10. Stay Positive</h2> Adopt a positive mindset. Focus on the progress you've made and the improvements you'll achieve. Avoid negative self-talk and embrace self-encouragement. <h2>Conclusion</h2> Staying motivated for workouts is essential for long-term fitness success. By setting goals, following a schedule, seeking support, and maintaining a positive attitude, you can overcome challenges and stay committed to your fitness journey.</p>"
-            },
-            {
-                "id": 4,
-                "name_category": "Healthy Lifestyle",
-                "title": "The Benefits of Adequate Sleep",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Adequate sleep is crucial for overall well-being. Explore the numerous benefits of getting enough rest and tips for improving your sleep quality.",
-                "link": "<p><strong>The Benefits of Adequate Sleep</strong> Adequate sleep is crucial for overall health and well-being. Discover the numerous benefits of getting enough quality sleep, from improved cognitive function to enhanced mood and physical well-being. <h2>1. Enhanced Cognitive Function</h2> Quality sleep supports cognitive functions such as memory, problem-solving, and decision-making. It boosts creativity and concentration, making you more productive during your waking hours. <h2>2. Mood Regulation</h2> Sleep is essential for emotional well-being. It helps regulate mood and reduces the risk of mood disorders like depression and anxiety. With sufficient sleep, you're better equipped to handle life's challenges. <h2>3. Physical Health</h2> Your body relies on sleep to repair and regenerate cells, tissues, and muscles. Adequate sleep is associated with a stronger immune system, faster healing, and a reduced risk of chronic diseases. <h2>4. Weight Management</h2> Sleep plays a role in appetite regulation. It helps balance the hormones that control hunger and fullness, making it easier to maintain a healthy weight. Sleep-deprived individuals are more likely to overeat. <h2>5. Heart Health</h2> Sufficient sleep contributes to cardiovascular health. It helps maintain blood pressure and supports a healthy heart. Chronic sleep deprivation is linked to an increased risk of heart diseases. <h2>6. Stress Reduction</h2> Sleep is a natural stress reliever. It reduces the body's stress response and enhances resilience to daily stressors. Good sleep fosters emotional balance. <h2>7. Improved Physical Performance</h2> Athletes benefit from adequate sleep as it enhances physical performance and reduces the risk of injuries. Muscles recover, and energy levels are optimized with quality sleep. <h2>8. Longevity</h2> Research suggests that those who consistently get enough sleep tend to live longer. Quality sleep is a vital component of a healthy and fulfilling life. <h2>Conclusion</h2> The benefits of adequate sleep are far-reaching, impacting various aspects of your life. Prioritize your sleep to enjoy improved cognitive function, mood regulation, physical health, and overall well-being.</p>"
-            },
-            {
-                "id": 5,
-                "name_category": "Fitness & Nutrition",
-                "title": "Balancing Exercise and Diet for Weight Management",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Achieving a healthy weight requires a balance of exercise and diet. Learn how to create a sustainable weight management plan.",
-                "link": "<p><strong>Balancing Exercise and Diet for Weight Management</strong> Achieving and maintaining a healthy weight is a common goal for many. Discover how balancing exercise and diet is the key to effective weight management. <h2>The Exercise Component</h2> Exercise is a crucial part of any weight management plan. It helps you burn calories, build muscle, and improve your overall health. Incorporate a mix of cardio and strength training exercises into your routine. Aim for at least 150 minutes of moderate-intensity or 75 minutes of high-intensity exercise per week. <h2>The Diet Component</h2> Your diet plays a significant role in weight management. Focus on consuming a variety of nutrient-dense foods, including fruits, vegetables, lean proteins, and whole grains. Pay attention to portion sizes and practice mindful eating. Avoid excessive consumption of sugary, high-fat, and processed foods. <h2>The Balance</h2> Balancing exercise and diet is essential. While exercise burns calories, it's easy to undo your hard work with poor eating habits. Keep a food diary to track your daily intake and stay within your calorie goals. Consider consulting a dietitian or nutritionist to create a personalized eating plan. <h2>Consistency Is Key</h2> Consistency is crucial for success. Establish a routine that you can maintain in the long term. Be patient, as healthy weight management takes time. Avoid extreme diets or excessive exercise, as they are unsustainable and can be harmful. <h2>Monitoring Progress</h2> Regularly monitor your progress. Track your weight, body measurements, and fitness levels. Adjust your exercise and diet plan as needed. Celebrate your achievements, whether they are big or small. <h2>Conclusion</h2> Balancing exercise and diet is the cornerstone of effective weight management. It's a sustainable approach that leads to lasting results. By making healthier food choices and staying physically active, you can achieve your weight management goals and enjoy a healthier life.</p>"
-            },
-            {
-                "id": 6,
-                "name_category": "Health & Fitness Tips",
-                "title": "Mindfulness Meditation for Stress Reduction",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Explore the benefits of mindfulness meditation for reducing stress and promoting mental and emotional well-being.",
-                "link": "<p><strong>Mindfulness Meditation for Stress Reduction</strong> Discover the power of mindfulness meditation in reducing stress and enhancing your overall well-being. <h2>The Essence of Mindfulness</h2> Mindfulness is a practice that encourages you to be fully present in the moment. By focusing your attention on the here and now, you can alleviate stress and anxiety. <h2>The Basics of Mindfulness Meditation</h2> To start, find a quiet and comfortable place to sit. Close your eyes and take a few deep breaths. Concentrate on your breath, the sensation of air entering and leaving your body. If your mind starts to wander, gently bring it back to your breath. <h2>The Stress-Reducing Benefits</h2> Mindfulness meditation is renowned for its stress-reduction advantages. It promotes relaxation and helps you manage overwhelming emotions. Regular practice can improve your overall mental well-being. <h2>Simple Practices to Begin</h2> To get started with mindfulness meditation, allocate a few minutes each day. As you become more comfortable, gradually increase the duration of your sessions. Experiment with different guided meditations available online. <h2>Integration into Daily Life</h2> Incorporate mindfulness into your daily routine. You can practice mindfulness while walking, eating, or even working. It's a tool that's always at your disposal to combat stress. <h2>The Path to Less Stress</h2> Mindfulness meditation is a proven method for reducing stress. It's accessible, simple to learn, and doesn't require any special equipment. By incorporating mindfulness into your life, you can experience the profound benefits of stress reduction and improved well-being. <h2>Conclusion</h2> Mindfulness meditation is a valuable practice for anyone seeking to reduce stress and find balance. Its techniques can be easily integrated into daily life, providing a powerful tool for achieving peace and tranquility.</p>"
-            },
-            {
-                "id": 7,
-                "name_category": "Health & Wellness",
-                "title": "The Power of Hydration: Stay Refreshed and Healthy",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Proper hydration is essential for good health. Discover the benefits of staying hydrated and tips for maintaining optimal fluid balance.",
-                "link": "<p><strong>The Power of Hydration: Stay Refreshed and Healthy</strong></p><p>Discover the incredible benefits of staying well-hydrated to maintain your overall health and well-being. Hydration plays a crucial role in ensuring that your body functions optimally. It affects everything from your skin's appearance to your energy levels. Water is essential for maintaining vital organ functions, such as your heart, kidneys, and brain. It helps transport nutrients, flush out toxins, and regulate body temperature. Proper hydration is directly linked to your energy levels. Dehydration can lead to feelings of fatigue and sluggishness. Staying hydrated keeps you alert and energized. Hydration is the key to healthy, glowing skin. It helps maintain skin elasticity and prevents dryness and premature aging. Drinking enough water is a natural way to enhance your complexion. To stay well-hydrated, aim to drink at least eight glasses of water daily. You can also incorporate water-rich foods like fruits and vegetables into your diet. Remember to adjust your water intake based on your activity level and the weather. Embracing the power of hydration is a simple yet transformative step toward better health. Ensure you drink an adequate amount of water each day to experience the countless benefits of staying refreshed and healthy.</p>"
-            },
-            {
-                "id": 8,
-                "name_category": "Fitness & Exercise",
-                "title": "Cardio Workouts: Benefits and Best Practices",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Cardiovascular workouts offer numerous health benefits. Explore the advantages of cardio exercises and best practices for an effective workout.",
-                "link": "<p><strong>Cardio Workouts: Benefits and Best Practices</strong></p><p>Explore the advantages of cardiovascular workouts and learn the best practices for an effective fitness routine. Cardio exercises, such as running, cycling, and swimming, provide numerous health benefits. They boost your cardiovascular fitness, strengthen your heart, and improve lung capacity. Cardio workouts aid in weight management and can assist in weight loss when combined with a balanced diet. Engaging in regular cardiovascular activity also enhances mood, reduces stress, and promotes better sleep. To make the most of your cardio workouts, set realistic goals, incorporate variety, and maintain proper form to prevent injuries. Additionally, it's essential to find activities you enjoy to stay motivated and consistent. Whether you're a seasoned athlete or just starting, cardio exercises are a valuable addition to your fitness routine. Discover the benefits and follow the best practices to make the most of your workouts and achieve your health and fitness goals.</p>"
-            },
-            {
-                "id": 9,
-                "name_category": "Healthy Lifestyle",
-                "title": "The Art of Stress Management: Strategies for Well-Being",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Effectively managing stress is essential for a balanced life. Explore strategies for stress reduction and improved overall well-being.",
-                "link": "<p><strong>The Art of Stress Management: Strategies for Well-Being</strong></p><p>Discover effective strategies for managing stress and enhancing your overall well-being. Stress is a common part of life, but too much of it can have negative effects on your physical and mental health. This article explores various approaches to stress management, such as relaxation techniques, mindfulness, exercise, and time management. Learn how to identify stressors, practice self-care, and build resilience to reduce the impact of stress on your life. By incorporating these strategies into your daily routine, you can achieve a greater sense of balance, improved mental health, and a higher quality of life. Prioritize your well-being and explore the art of stress management to lead a healthier, happier life.</p><p>1. Identify Stressors: Recognize the sources of stress in your life, whether they are related to work, relationships, or other factors.</p><p>2. Practice Self-Care: Take time for self-care activities like meditation, hobbies, or spending time with loved ones.</p><p>3. Mindfulness and Relaxation: Incorporate mindfulness exercises and relaxation techniques to reduce stress levels.</p><p>4. Physical Activity: Engage in regular physical exercise to boost your mood and reduce stress.</p><p>5. Time Management: Effectively manage your time and prioritize tasks to reduce stress related to deadlines and time pressure.</p><p>6. Resilience Building: Develop resilience skills to bounce back from setbacks and stressors with greater ease.</p><p>7. Achieve Balance: Find the right balance between work, leisure, and personal time to enhance your overall well-being.</p>"
-            },
-            {
-                "id": 10,
-                "name_category": "Fitness & Nutrition",
-                "title": "Healthy Eating Habits: Fuel Your Body for Success",
-                "image": "file:///android_asset/image/huavi.jpg",
-                "description": "Nutrition plays a crucial role in your fitness journey. Explore healthy eating habits that can fuel your body for success and well-being.",
-                "link": "<p><strong>Healthy Eating Habits: Fuel Your Body for Success</strong></p><p>Discover the power of healthy eating habits and how they can fuel your body for success. Maintaining a balanced diet is essential for overall well-being and achieving your goals. This article provides insights into making nutritious food choices, portion control, meal planning, and the benefits of a well-rounded diet. Learn how to incorporate a variety of food groups, including fruits, vegetables, lean proteins, whole grains, and healthy fats, into your daily meals. By adopting these healthy eating habits, you can boost your energy, support your physical and mental health, and enhance your productivity and success in all aspects of life.</p><p>1. Nutritious Food Choices: Opt for nutrient-rich foods like fruits, vegetables, and whole grains to provide essential vitamins and minerals.</p><p>2. Portion Control: Practice portion control to avoid overeating and maintain a healthy weight.</p><p>3. Meal Planning: Plan your meals ahead of time to ensure you make balanced and mindful food choices.</p><p>4. Food Variety: Include a wide variety of food groups to receive a broad spectrum of nutrients and health benefits.</p><p>5. Lean Proteins: Incorporate lean protein sources like poultry, fish, beans, and tofu for muscle health and satiety.</p><p>6. Whole Grains: Choose whole grains over refined grains for increased fiber and sustained energy levels.</p><p>7. Healthy Fats: Include sources of healthy fats, such as avocados and nuts, for heart health and cognitive function.</p><p>8. Hydration: Stay adequately hydrated by drinking enough water throughout the day to support bodily functions and overall health.</p><p>9. Mindful Eating: Practice mindful eating by savoring your food, paying attention to hunger cues, and avoiding distractions during meals.</p><p>10. Long-Term Benefits: Understand that healthy eating habits contribute to long-term success, well-being, and a higher quality of life.</p>"
-            }
-        ]
-    ],
-    "enable_data_2": false,
-    "data_2_title": "Novelah App Advices",
-    "data_2_image_button": "file:///android_asset/image/novelabutton.png",
-    "Data2": [
-        {
-            "id": 1,
-            "name_category": "Novelah Advices",
-            "title": "What is Novelah App?",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-            "description": "Exploring the World of Free Reading and Literary Exploration",
-            "link": "https://novelahappaddvices.blogspot.com/p/what-is-novelah-app.html"
-        },
-        {
-            "id": 2,
-            "name_category": "Novelah Advices",
-            "title": "Is Novelah Legit or a Scam?",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-            "description": "Unveiling the Truth Behind the Reading App",
-            "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-legit-or-scam.html"
-        },
-        {
-            "id": 3,
-            "name_category": "Novelah Advices",
-            "title": "Signing Up for Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-            "description": "Step-by-Step Guide to Creating Your Account",
-            "link": "https://novelahappaddvices.blogspot.com/p/step-by-step-guide-to-creating-your.html"
-        },
-        {
-            "id": 4,
-            "name_category": "Novelah Advices",
-            "title": "Earning Money with Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-            "description": "Exploring Opportunities for Income Generation",
-            "link": "https://novelahappaddvices.blogspot.com/p/earning-money-with-novelah.html"
-        },
-        {
-            "id": 5,
-            "name_category": "Novelah Advices",
-            "title": "How Much Money Can You Earn from Novelah?",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-            "description": "Novelah has gained attention for its promise of turning reading into a source of income",
-            "link": "https://novelahappaddvices.blogspot.com/p/how-much-money-can-you-earn-from-novelah.html"
-        },
-        {
-            "id": 6,
-            "name_category": "Guide",
-            "title": "Earning Points on Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "Earning Points on Novelah: Strategies for Maximizing Your Income",
-            "link": "https://novelahappaddvices.blogspot.com/p/earning-points-on-novelah-strategies.html"
-        },
-        {
-            "id": 7,
-            "name_category": "Guide",
-            "title": "How to Invite Friends on Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "How to Invite Friends on Novelah: Sharing the Reading Experience",
-            "link": "https://novelahappaddvices.blogspot.com/p/how-to-invite-friends-on-novelah.html"
-        },
-        {
-            "id": 8,
-            "name_category": "Guide",
-            "title": "How to Enter an Invite Code on Novelah App",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "Simple process of entering an invitation code within the Novelah app.",
-            "link": "https://novelahappaddvices.blogspot.com/p/how-to-enter-invite-code-on-novelah-app.html"
-        },
-        {
-            "id": 9,
-            "name_category": "Guide",
-            "title": "How to Withdraw Money from the Novelah App",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": " Steps required to withdraw money from Novelah.",
-            "link": "https://novelahappaddvices.blogspot.com/p/how-to-withdraw-money-from-novelah-app.html"
-        },
-        {
-            "id": 10,
-            "name_category": "Guide",
-            "title": "Quick Ways to Earn Money from Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": " Here, we'll guide you through strategies that can swiftly enhance your points count, allowing you to earn money more rapidly",
-            "link": "https://novelahappaddvices.blogspot.com/p/quick-ways-to-earn-money-from-novelah.html"
-        },
-        {
-            "id": 11,
-            "name_category": "Guide",
-            "title": "Is Novelah App Free? Unraveling the Cost-Free Experience",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "Let's delve into the details and explore whether Novelah truly offers a free experience",
-            "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-app-free.html"
-        },
-        {
-            "id": 12,
-            "name_category": "Guide",
-            "title": "Conclusion: Novelah",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "Let's recap the journey and the opportunities it offers",
-            "link": "https://novelahappaddvices.blogspot.com/p/conclusion-novelah.html"
-        },
-        {
-            "id": 13,
-            "name_category": "Guide",
-            "title": "Novelah FAQ",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-            "description": "Your Comprehensive Guide to Novelah Questions",
-            "link": "https://novelahappaddvices.blogspot.com/p/novelah-faq-your-comprehensive-guide-to.html"
-        }
+    "ad_network": [
+      {
+        "name": "-",
+        "value": 1,
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
     ]
+  },
+  "app_settings": {
+    "navigation_mode": "tab_layout_top",
+    "recent_fragment_list_view_mode": "small",
+    "favorite_fragment_list_view_mode": "grid",
+    "category_fragment_list_view_mode": "grid",
+    "category_activity_list_view_mode": "grid",
+    "hide_short_desc_category_activity_list": false,
+    "item_interval_native_ad_list": 4,
+    "enable_banner_ads": true,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+    [
+      {
+        "id": 1,
+        "name_category": "Health & Wellness",
+        "title": "The Importance of Regular Exercise",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Regular exercise is essential for maintaining good health. Discover the numerous benefits of staying active and incorporating exercise into your daily routine.",
+        "link": "<p><strong>The Importance of Regular Exercise</strong></p><p>Physical activity is an integral part of a healthy lifestyle. Regular exercise provides numerous benefits for our physical, mental, and emotional well-being. It's not just about getting in shape; it's about improving the quality of our lives. In this article, we'll explore the importance of regular exercise and why it should be a fundamental part of our daily routines.</p><h2>Physical Health</h2><p>Regular exercise is synonymous with better physical health. It strengthens the cardiovascular system, improves lung function, and enhances our body's ability to transport oxygen. This leads to increased energy levels and improved endurance. Exercise also plays a crucial role in weight management, as it helps burn calories and build lean muscle mass.</p><p>Moreover, physical activity reduces the risk of chronic diseases such as heart disease, diabetes, and hypertension. It can also alleviate symptoms in those already suffering from these conditions. For example, exercise helps lower blood pressure, control blood sugar levels, and manage cholesterol levels. It's a natural way to improve overall health and reduce the burden on the healthcare system.</p><h2>Mental Well-Being</h2><p>Exercise isn't just about pumping iron or running laps; it's a potent mood enhancer. Regular physical activity triggers the release of endorphins, often referred to as feel-good hormones. These chemicals in our brain help reduce symptoms of anxiety, depression, and stress. In fact, exercise is often recommended as part of a treatment plan for these conditions.</p><p>Additionally, physical activity boosts cognitive function and memory. It enhances brain health by increasing blood flow and promoting the growth of new brain cells. This is why it's often said that exercise is like a miracle drug for the brain. It helps you think clearer, stay focused, and be more productive.</p><h2>Emotional Balance</h2><p>Our emotional well-being is closely tied to our physical health and mental state. Regular exercise helps maintain emotional balance by reducing feelings of irritability and anger. It provides an outlet for stress and promotes relaxation. People who exercise regularly tend to sleep better, which in turn improves their emotional stability.</p><p>Exercise also fosters a sense of accomplishment. As you set and achieve fitness goals, it can boost your self-esteem and self-confidence. This positive self-image carries over into other aspects of your life, leading to a happier and more fulfilling existence.</p><h2>Social Interaction</h2><p>Many forms of exercise are done in a group or social setting. Whether you join a sports team, attend group fitness classes, or simply go for a walk with a friend, exercise can be a highly social activity. These interactions contribute to our emotional well-being by providing a sense of belonging and support.</p><h2>Conclusion</h2><p>Regular exercise isn't a luxury; it's a necessity for a healthy and happy life. By prioritizing physical activity in your daily routine, you can enjoy improved physical health, a sharper mind, emotional balance, and better social connections. It's a small investment with enormous returns. So, lace up those sneakers, hit the gym, or head out for a run—your body and mind will thank you.</p>"
+      },
+      {
+        "id": 2,
+        "name_category": "Health & Wellness",
+        "title": "Nutrition Tips for a Balanced Diet",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Eating a balanced diet is key to good health. Explore essential nutrition tips and learn how to make healthier food choices for a nourished body.",
+        "link": "<p><strong>Nutrition Tips for a Balanced Diet</strong></p><p>Proper nutrition is the cornerstone of good health. Maintaining a balanced diet is essential for overall well-being. In this article, we'll provide valuable tips to help you achieve a diet that supports your health and vitality.</p><h2>1. Eat a Variety of Foods</h2><p>One of the keys to a balanced diet is diversity. Consume a wide range of foods from all food groups, including fruits, vegetables, grains, protein sources, and dairy or dairy alternatives. Each type of food provides different nutrients, so by diversifying your intake, you'll ensure your body receives a broad spectrum of essential vitamins and minerals.</p><h2>2. Portion Control</h2><p>Controlling your portion sizes is vital to prevent overeating. Pay attention to recommended serving sizes and use measuring tools if necessary. Portion control helps you maintain a healthy weight and avoid excess calorie intake, which can lead to weight-related health issues.</p><h2>3. Hydration Matters</h2><p>Staying hydrated is often overlooked but is crucial for your health. Drink plenty of water throughout the day. It's calorie-free and aids in digestion, nutrient transport, and temperature regulation. Avoid excessive sugary drinks and opt for water, herbal teas, or other low-calorie beverages.</p><h2>4. Include Fiber-Rich Foods</h2><p>Fiber is essential for digestive health. Include fiber-rich foods like whole grains, legumes, fruits, and vegetables in your diet. Fiber promotes regular bowel movements and can lower the risk of certain diseases, such as heart disease and type 2 diabetes.</p><h2>5. Limit Added Sugars</h2><p>Excessive added sugars in your diet can lead to health problems, including obesity and dental issues. Be mindful of sugary snacks, sugary drinks, and foods with hidden sugars. Read food labels to identify sources of added sugars, and reduce your consumption of these items.</p><h2>6. Choose Healthy Fats</h2><p>Not all fats are bad for you. Opt for healthy fats like those found in nuts, seeds, avocados, and fatty fish. These fats can support heart health and provide essential fatty acids for your body's functions. Limit saturated and trans fats found in fried and processed foods.</p><h2>7. Balanced Meals</h2><p>Aim for balanced meals that include a combination of macronutrients. Each meal should have a source of protein, carbohydrates, and healthy fats. This approach helps stabilize blood sugar levels and keeps you feeling full and satisfied.</p><h2>8. Don't Skip Breakfast</h2><p>Breakfast is the most important meal of the day. It kick-starts your metabolism and provides the energy needed for the day ahead. A nutritious breakfast with protein, whole grains, and fruits or vegetables sets a positive tone for your dietary choices.</p><h2>9. Plan Ahead</h2><p>Planning your meals in advance can help you make healthier choices. Prepare balanced meals and snacks to have on hand when hunger strikes. This reduces the temptation to opt for fast food or unhealthy convenience options.</p><h2>10. Be Mindful of Emotional Eating</h2><p>Recognize the difference between physical hunger and emotional eating. Don't use food as a coping mechanism for stress, boredom, or other emotions. Find alternative ways to address emotional needs, such as exercise, relaxation techniques, or talking to a friend.</p><h2>Conclusion</h2><p>Achieving a balanced diet is an essential component of a healthy lifestyle. By following these nutrition tips and being mindful of what you eat, you can support your well-being, maintain a healthy weight, and reduce the risk of chronic diseases. Your body will thank you for nourishing it with the right foods.</p>"
+      },
+      {
+        "id": 3,
+        "name_category": "Fitness & Exercise",
+        "title": "Effective Ways to Stay Motivated for Workouts",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Maintaining workout motivation can be challenging. Learn effective strategies to stay motivated and achieve your fitness goals.",
+        "link": "<p><strong>Effective Ways to Stay Motivated for Workouts</strong> Motivation is the key to maintaining a consistent workout routine. Discover effective strategies to keep yourself motivated for workouts and achieve your fitness goals. <h2>1. Set Clear Goals</h2> Establish specific fitness goals to work toward. Whether it's weight loss, muscle gain, or improved endurance, having a clear objective provides motivation and direction for your workouts. <h2>2. Create a Workout Schedule</h2> Plan your workouts in advance and stick to a schedule. Consistency is vital for progress. Having designated workout times helps you build a habit and reduces the likelihood of procrastination. <h2>3. Find an Accountability Partner</h2> Workout with a friend or find an accountability partner who shares your fitness goals. You can motivate each other, celebrate achievements, and provide support on challenging days. <h2>4. Vary Your Routine</h2> Prevent workout monotony by changing your routine. Incorporate different exercises, try new fitness classes, or explore various workout styles to keep things fresh and exciting. <h2>5. Reward Yourself</h2> Set up a reward system for reaching milestones. Treat yourself to something you enjoy when you achieve a fitness goal. Rewards can be a powerful motivator. <h2>6. Track Your Progress</h2> Keep a workout journal or use fitness tracking apps to monitor your progress. Seeing improvements in strength, endurance, or weight loss can boost your motivation. <h2>7. Stay Informed</h2> Learn about fitness and nutrition to enhance your understanding. Knowing the benefits of your efforts can be motivating. Consider consulting with a fitness expert for guidance. <h2>8. Visualize Success</h2> Visualize yourself achieving your fitness goals. Imagine the satisfaction and benefits of your hard work. This mental imagery can provide a powerful motivational push. <h2>9. Join a Fitness Community</h2> Become part of a fitness community or an online fitness group. Sharing experiences and connecting with others who have similar goals can be inspiring. <h2>10. Stay Positive</h2> Adopt a positive mindset. Focus on the progress you've made and the improvements you'll achieve. Avoid negative self-talk and embrace self-encouragement. <h2>Conclusion</h2> Staying motivated for workouts is essential for long-term fitness success. By setting goals, following a schedule, seeking support, and maintaining a positive attitude, you can overcome challenges and stay committed to your fitness journey.</p>"
+      },
+      {
+        "id": 4,
+        "name_category": "Healthy Lifestyle",
+        "title": "The Benefits of Adequate Sleep",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Adequate sleep is crucial for overall well-being. Explore the numerous benefits of getting enough rest and tips for improving your sleep quality.",
+        "link": "<p><strong>The Benefits of Adequate Sleep</strong> Adequate sleep is crucial for overall health and well-being. Discover the numerous benefits of getting enough quality sleep, from improved cognitive function to enhanced mood and physical well-being. <h2>1. Enhanced Cognitive Function</h2> Quality sleep supports cognitive functions such as memory, problem-solving, and decision-making. It boosts creativity and concentration, making you more productive during your waking hours. <h2>2. Mood Regulation</h2> Sleep is essential for emotional well-being. It helps regulate mood and reduces the risk of mood disorders like depression and anxiety. With sufficient sleep, you're better equipped to handle life's challenges. <h2>3. Physical Health</h2> Your body relies on sleep to repair and regenerate cells, tissues, and muscles. Adequate sleep is associated with a stronger immune system, faster healing, and a reduced risk of chronic diseases. <h2>4. Weight Management</h2> Sleep plays a role in appetite regulation. It helps balance the hormones that control hunger and fullness, making it easier to maintain a healthy weight. Sleep-deprived individuals are more likely to overeat. <h2>5. Heart Health</h2> Sufficient sleep contributes to cardiovascular health. It helps maintain blood pressure and supports a healthy heart. Chronic sleep deprivation is linked to an increased risk of heart diseases. <h2>6. Stress Reduction</h2> Sleep is a natural stress reliever. It reduces the body's stress response and enhances resilience to daily stressors. Good sleep fosters emotional balance. <h2>7. Improved Physical Performance</h2> Athletes benefit from adequate sleep as it enhances physical performance and reduces the risk of injuries. Muscles recover, and energy levels are optimized with quality sleep. <h2>8. Longevity</h2> Research suggests that those who consistently get enough sleep tend to live longer. Quality sleep is a vital component of a healthy and fulfilling life. <h2>Conclusion</h2> The benefits of adequate sleep are far-reaching, impacting various aspects of your life. Prioritize your sleep to enjoy improved cognitive function, mood regulation, physical health, and overall well-being.</p>"
+      },
+      {
+        "id": 5,
+        "name_category": "Fitness & Nutrition",
+        "title": "Balancing Exercise and Diet for Weight Management",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Achieving a healthy weight requires a balance of exercise and diet. Learn how to create a sustainable weight management plan.",
+        "link": "<p><strong>Balancing Exercise and Diet for Weight Management</strong> Achieving and maintaining a healthy weight is a common goal for many. Discover how balancing exercise and diet is the key to effective weight management. <h2>The Exercise Component</h2> Exercise is a crucial part of any weight management plan. It helps you burn calories, build muscle, and improve your overall health. Incorporate a mix of cardio and strength training exercises into your routine. Aim for at least 150 minutes of moderate-intensity or 75 minutes of high-intensity exercise per week. <h2>The Diet Component</h2> Your diet plays a significant role in weight management. Focus on consuming a variety of nutrient-dense foods, including fruits, vegetables, lean proteins, and whole grains. Pay attention to portion sizes and practice mindful eating. Avoid excessive consumption of sugary, high-fat, and processed foods. <h2>The Balance</h2> Balancing exercise and diet is essential. While exercise burns calories, it's easy to undo your hard work with poor eating habits. Keep a food diary to track your daily intake and stay within your calorie goals. Consider consulting a dietitian or nutritionist to create a personalized eating plan. <h2>Consistency Is Key</h2> Consistency is crucial for success. Establish a routine that you can maintain in the long term. Be patient, as healthy weight management takes time. Avoid extreme diets or excessive exercise, as they are unsustainable and can be harmful. <h2>Monitoring Progress</h2> Regularly monitor your progress. Track your weight, body measurements, and fitness levels. Adjust your exercise and diet plan as needed. Celebrate your achievements, whether they are big or small. <h2>Conclusion</h2> Balancing exercise and diet is the cornerstone of effective weight management. It's a sustainable approach that leads to lasting results. By making healthier food choices and staying physically active, you can achieve your weight management goals and enjoy a healthier life.</p>"
+      },
+      {
+        "id": 6,
+        "name_category": "Health & Fitness Tips",
+        "title": "Mindfulness Meditation for Stress Reduction",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Explore the benefits of mindfulness meditation for reducing stress and promoting mental and emotional well-being.",
+        "link": "<p><strong>Mindfulness Meditation for Stress Reduction</strong> Discover the power of mindfulness meditation in reducing stress and enhancing your overall well-being. <h2>The Essence of Mindfulness</h2> Mindfulness is a practice that encourages you to be fully present in the moment. By focusing your attention on the here and now, you can alleviate stress and anxiety. <h2>The Basics of Mindfulness Meditation</h2> To start, find a quiet and comfortable place to sit. Close your eyes and take a few deep breaths. Concentrate on your breath, the sensation of air entering and leaving your body. If your mind starts to wander, gently bring it back to your breath. <h2>The Stress-Reducing Benefits</h2> Mindfulness meditation is renowned for its stress-reduction advantages. It promotes relaxation and helps you manage overwhelming emotions. Regular practice can improve your overall mental well-being. <h2>Simple Practices to Begin</h2> To get started with mindfulness meditation, allocate a few minutes each day. As you become more comfortable, gradually increase the duration of your sessions. Experiment with different guided meditations available online. <h2>Integration into Daily Life</h2> Incorporate mindfulness into your daily routine. You can practice mindfulness while walking, eating, or even working. It's a tool that's always at your disposal to combat stress. <h2>The Path to Less Stress</h2> Mindfulness meditation is a proven method for reducing stress. It's accessible, simple to learn, and doesn't require any special equipment. By incorporating mindfulness into your life, you can experience the profound benefits of stress reduction and improved well-being. <h2>Conclusion</h2> Mindfulness meditation is a valuable practice for anyone seeking to reduce stress and find balance. Its techniques can be easily integrated into daily life, providing a powerful tool for achieving peace and tranquility.</p>"
+      },
+      {
+        "id": 7,
+        "name_category": "Health & Wellness",
+        "title": "The Power of Hydration: Stay Refreshed and Healthy",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Proper hydration is essential for good health. Discover the benefits of staying hydrated and tips for maintaining optimal fluid balance.",
+        "link": "<p><strong>The Power of Hydration: Stay Refreshed and Healthy</strong></p><p>Discover the incredible benefits of staying well-hydrated to maintain your overall health and well-being. Hydration plays a crucial role in ensuring that your body functions optimally. It affects everything from your skin's appearance to your energy levels. Water is essential for maintaining vital organ functions, such as your heart, kidneys, and brain. It helps transport nutrients, flush out toxins, and regulate body temperature. Proper hydration is directly linked to your energy levels. Dehydration can lead to feelings of fatigue and sluggishness. Staying hydrated keeps you alert and energized. Hydration is the key to healthy, glowing skin. It helps maintain skin elasticity and prevents dryness and premature aging. Drinking enough water is a natural way to enhance your complexion. To stay well-hydrated, aim to drink at least eight glasses of water daily. You can also incorporate water-rich foods like fruits and vegetables into your diet. Remember to adjust your water intake based on your activity level and the weather. Embracing the power of hydration is a simple yet transformative step toward better health. Ensure you drink an adequate amount of water each day to experience the countless benefits of staying refreshed and healthy.</p>"
+      },
+      {
+        "id": 8,
+        "name_category": "Fitness & Exercise",
+        "title": "Cardio Workouts: Benefits and Best Practices",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Cardiovascular workouts offer numerous health benefits. Explore the advantages of cardio exercises and best practices for an effective workout.",
+        "link": "<p><strong>Cardio Workouts: Benefits and Best Practices</strong></p><p>Explore the advantages of cardiovascular workouts and learn the best practices for an effective fitness routine. Cardio exercises, such as running, cycling, and swimming, provide numerous health benefits. They boost your cardiovascular fitness, strengthen your heart, and improve lung capacity. Cardio workouts aid in weight management and can assist in weight loss when combined with a balanced diet. Engaging in regular cardiovascular activity also enhances mood, reduces stress, and promotes better sleep. To make the most of your cardio workouts, set realistic goals, incorporate variety, and maintain proper form to prevent injuries. Additionally, it's essential to find activities you enjoy to stay motivated and consistent. Whether you're a seasoned athlete or just starting, cardio exercises are a valuable addition to your fitness routine. Discover the benefits and follow the best practices to make the most of your workouts and achieve your health and fitness goals.</p>"
+      },
+      {
+        "id": 9,
+        "name_category": "Healthy Lifestyle",
+        "title": "The Art of Stress Management: Strategies for Well-Being",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Effectively managing stress is essential for a balanced life. Explore strategies for stress reduction and improved overall well-being.",
+        "link": "<p><strong>The Art of Stress Management: Strategies for Well-Being</strong></p><p>Discover effective strategies for managing stress and enhancing your overall well-being. Stress is a common part of life, but too much of it can have negative effects on your physical and mental health. This article explores various approaches to stress management, such as relaxation techniques, mindfulness, exercise, and time management. Learn how to identify stressors, practice self-care, and build resilience to reduce the impact of stress on your life. By incorporating these strategies into your daily routine, you can achieve a greater sense of balance, improved mental health, and a higher quality of life. Prioritize your well-being and explore the art of stress management to lead a healthier, happier life.</p><p>1. Identify Stressors: Recognize the sources of stress in your life, whether they are related to work, relationships, or other factors.</p><p>2. Practice Self-Care: Take time for self-care activities like meditation, hobbies, or spending time with loved ones.</p><p>3. Mindfulness and Relaxation: Incorporate mindfulness exercises and relaxation techniques to reduce stress levels.</p><p>4. Physical Activity: Engage in regular physical exercise to boost your mood and reduce stress.</p><p>5. Time Management: Effectively manage your time and prioritize tasks to reduce stress related to deadlines and time pressure.</p><p>6. Resilience Building: Develop resilience skills to bounce back from setbacks and stressors with greater ease.</p><p>7. Achieve Balance: Find the right balance between work, leisure, and personal time to enhance your overall well-being.</p>"
+      },
+      {
+        "id": 10,
+        "name_category": "Fitness & Nutrition",
+        "title": "Healthy Eating Habits: Fuel Your Body for Success",
+        "image": "file:///android_asset/image/huavi.png",
+        "description": "Nutrition plays a crucial role in your fitness journey. Explore healthy eating habits that can fuel your body for success and well-being.",
+        "link": "<p><strong>Healthy Eating Habits: Fuel Your Body for Success</strong></p><p>Discover the power of healthy eating habits and how they can fuel your body for success. Maintaining a balanced diet is essential for overall well-being and achieving your goals. This article provides insights into making nutritious food choices, portion control, meal planning, and the benefits of a well-rounded diet. Learn how to incorporate a variety of food groups, including fruits, vegetables, lean proteins, whole grains, and healthy fats, into your daily meals. By adopting these healthy eating habits, you can boost your energy, support your physical and mental health, and enhance your productivity and success in all aspects of life.</p><p>1. Nutritious Food Choices: Opt for nutrient-rich foods like fruits, vegetables, and whole grains to provide essential vitamins and minerals.</p><p>2. Portion Control: Practice portion control to avoid overeating and maintain a healthy weight.</p><p>3. Meal Planning: Plan your meals ahead of time to ensure you make balanced and mindful food choices.</p><p>4. Food Variety: Include a wide variety of food groups to receive a broad spectrum of nutrients and health benefits.</p><p>5. Lean Proteins: Incorporate lean protein sources like poultry, fish, beans, and tofu for muscle health and satiety.</p><p>6. Whole Grains: Choose whole grains over refined grains for increased fiber and sustained energy levels.</p><p>7. Healthy Fats: Include sources of healthy fats, such as avocados and nuts, for heart health and cognitive function.</p><p>8. Hydration: Stay adequately hydrated by drinking enough water throughout the day to support bodily functions and overall health.</p><p>9. Mindful Eating: Practice mindful eating by savoring your food, paying attention to hunger cues, and avoiding distractions during meals.</p><p>10. Long-Term Benefits: Understand that healthy eating habits contribute to long-term success, well-being, and a higher quality of life.</p>"
+      }
+    ]
+  ],
+  "enable_data_2": false,
+  "data_2_title": "Novelah App Advices",
+  "data_2_image_button": "file:///android_asset/image/novelabutton.png",
+  "Data2": [
+    {
+      "id": 1,
+      "name_category": "Novelah Advices",
+      "title": "What is Novelah App?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+      "description": "Exploring the World of Free Reading and Literary Exploration",
+      "link": "https://novelahappaddvices.blogspot.com/p/what-is-novelah-app.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Novelah Advices",
+      "title": "Is Novelah Legit or a Scam?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+      "description": "Unveiling the Truth Behind the Reading App",
+      "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-legit-or-scam.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Novelah Advices",
+      "title": "Signing Up for Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+      "description": "Step-by-Step Guide to Creating Your Account",
+      "link": "https://novelahappaddvices.blogspot.com/p/step-by-step-guide-to-creating-your.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Novelah Advices",
+      "title": "Earning Money with Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+      "description": "Exploring Opportunities for Income Generation",
+      "link": "https://novelahappaddvices.blogspot.com/p/earning-money-with-novelah.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Novelah Advices",
+      "title": "How Much Money Can You Earn from Novelah?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+      "description": "Novelah has gained attention for its promise of turning reading into a source of income",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-much-money-can-you-earn-from-novelah.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Earning Points on Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Earning Points on Novelah: Strategies for Maximizing Your Income",
+      "link": "https://novelahappaddvices.blogspot.com/p/earning-points-on-novelah-strategies.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Guide",
+      "title": "How to Invite Friends on Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "How to Invite Friends on Novelah: Sharing the Reading Experience",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-invite-friends-on-novelah.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Guide",
+      "title": "How to Enter an Invite Code on Novelah App",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Simple process of entering an invitation code within the Novelah app.",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-enter-invite-code-on-novelah-app.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Guide",
+      "title": "How to Withdraw Money from the Novelah App",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": " Steps required to withdraw money from Novelah.",
+      "link": "https://novelahappaddvices.blogspot.com/p/how-to-withdraw-money-from-novelah-app.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Guide",
+      "title": "Quick Ways to Earn Money from Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": " Here, we'll guide you through strategies that can swiftly enhance your points count, allowing you to earn money more rapidly",
+      "link": "https://novelahappaddvices.blogspot.com/p/quick-ways-to-earn-money-from-novelah.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Guide",
+      "title": "Is Novelah App Free? Unraveling the Cost-Free Experience",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Let's delve into the details and explore whether Novelah truly offers a free experience",
+      "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-app-free.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Guide",
+      "title": "Conclusion: Novelah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Let's recap the journey and the opportunities it offers",
+      "link": "https://novelahappaddvices.blogspot.com/p/conclusion-novelah.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Guide",
+      "title": "Novelah FAQ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+      "description": "Your Comprehensive Guide to Novelah Questions",
+      "link": "https://novelahappaddvices.blogspot.com/p/novelah-faq-your-comprehensive-guide-to.html"
+    }
+  ]
 }
