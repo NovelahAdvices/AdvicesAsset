@@ -1,0 +1,163 @@
+{
+    "ads": {
+        "settings": {
+            "interval_interstitial": 3,
+            "interstitial_type": "lap",
+            "switch_ads_type": "only_banner",
+            "make_app_crash_when_app_not_live_at_play_store": false,
+            "make_app_under_maintenance": false,
+            "rate_dialog_count": 99999
+        },
+        "ad_network": [
+            {
+                "name": "-",
+                "value": 1,
+                "appId_appKey_publisherId_gameId": "-",
+                "banner": "-",
+                "mrec": "-",
+                "inter": "-",
+                "native_ad": "-",
+                "open_ad": "-",
+                "splash_ad": false
+            }
+        ]
+    },
+    "app_settings": {
+        "navigation_mode": "tab_layout_top",
+        "recent_fragment_list_view_mode": "small",
+        "favorite_fragment_list_view_mode": "grid",
+        "category_fragment_list_view_mode": "grid",
+        "category_activity_list_view_mode": "grid",
+        "hide_short_desc_category_activity_list": false,
+        "item_interval_native_ad_list": 4,
+        "enable_banner_ads": true,
+        "enable_category": false,
+        "enable_more_app": false
+    },
+    "More": [
+        {
+            "id": 1,
+            "title": "IQ Test vs The Moron Test",
+            "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+        },
+        {
+            "id": 2,
+            "title": "Skins Editor for Minecraft PE",
+            "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Playstore",
+            "image": "file:///android_asset/image/image1.png"
+        },
+        {
+            "id": 2,
+            "name_category": "Tutorial",
+            "image": "file:///android_asset/image/image2.webp"
+        },
+        {
+            "id": 3,
+            "name_category": "Reskin",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "name_category": "Introducing",
+            "title": "What is YoWhatsApp?",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "YoWhatsApp, the remarkable modification of WhatsApp, redefines the messaging experience",
+            "link": "<p>YoWhatsApp, the remarkable modification of WhatsApp, redefines the messaging experience. Unlike the standard WhatsApp, YoWhatsApp offers an extensive array of features that will undoubtedly leave you astounded. One of its standout qualities is its versatility when it comes to personalization. With YoWhatsApp, you can delve into a world of endless customization possibilities. From themes that resonate with your style to the ability to personalize conversations with every contact, it's a realm where you have the creative freedom to make your WhatsApp truly yours.</p><p>However, what truly makes YoWhatsApp a game-changer is its ability to add excitement to your conversations. The inclusion of diverse emoji stickers allows you to express yourself with flair, making your chats lively and engaging. You can create a unique and dynamic chatting environment with friends and family, thanks to these expressive stickers.</p><p>But YoWhatsApp doesn't stop at just aesthetics and personalization; it's also dedicated to ensuring your privacy remains intact. The mod comes equipped with an array of enhanced privacy options, which means you have more control over your personal information and who can access it. Your privacy is a top priority with YoWhatsApp.</p><p>In essence, YoWhatsApp is the ultimate choice for those who desire a WhatsApp experience beyond the ordinary. It combines aesthetics, personalization, and privacy to provide a truly exceptional messaging platform. With YoWhatsApp, you'll say goodbye to the mundane and embrace a world of endless possibilities in your messaging endeavors.</p>"
+        },
+        {
+            "id": 2,
+            "name_category": "Features",
+            "title": "Features of YoWhatsApp",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "YoWhatsApp VS WhatsApp: Discover the Contrasts",
+            "link": "<p><strong>YoWhatsApp VS WhatsApp: Discover the Contrasts</strong></p> <p><strong>Integrated App Lock:</strong> YoWhatsApp provides built-in app locking for comprehensive data protection. <p><strong>Customized Themes:</strong> Unleash your creativity with personalized themes. <p><strong>Effortless Media Sharing:</strong> Send up to 700MB videos with YoWhatsApp. <p><strong>Extended Video to GIF:</strong> Create longer GIFs. <p><strong>Uncompromised Image Quality:</strong> Share images in full resolution. <p><strong>Caller Identification:</strong> Identify unknown calls. <p><strong>Call Blocking:</strong> Block specific contacts. <p><strong>Blue Ticks on Reply:</strong> Blue ticks appear after you reply. <p><strong>7-Minute Video Status:</strong> Longer video statuses. <p><strong>Real-Time Location Sharing:</strong> Share locations in real-time. <p><strong>Effortless Cross-Platform Sharing:</strong> Share content across platforms. <p><strong>Unread Email Locator:</strong> Quickly find unread emails. <p><strong>Stealthy Group Departure:</strong> Leave groups discreetly."
+        },
+        {
+            "id": 3,
+            "name_category": "Features",
+            "title": "Other Exciting Features",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "Find Additional YoWhatsApp Features",
+            "link": "<span><strong>Additional YoWhatsApp Features:</strong> Caller ID, Customizable Fonts, More Emoticons & Stickers, Multilingual Support, Auto-Reply, Chat Background Customization, Anti-Delete, Hide Online Status, Lock 1000+ Chats, Chat Encryption (Password/Pattern/Fingerprint), Zoom Profile Pics, Read Receipt After Reply, Message Unsaved Numbers, Conceal Message Timestamps, Longer Status Updates (255 characters).</span>"
+        },
+        {
+            "id": 4,
+            "name_category": "Guide",
+            "title": "Get YoWhatsApp",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "YoWhatsApp has come a long way since its first version got launched",
+            "link": "<span><strong>YOWhatsApp APK Download:</strong> Elevate Your WhatsApp Experience with YoWhatsApp, the ever-evolving mod version. Get the latest version by clicking <a href=https://webdown.b-cdn.net/YO_org-YoWhatsApp%409.821696745060.apk>here</a>.</span>"
+        },
+        {
+            "id": 5,
+            "name_category": "Installation",
+            "title": "Step-by-Step Installation",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "How to Install YoWhatsApp: A Step-by-Step Installation Guide",
+            "link": "<p><strong>Step 1: Download YoWhatsApp</strong></p><p>Obtain the YoWhatsApp module from our article and initiate the download by clicking the Download button.</p><p><strong>Step 2: Wait for Download to Complete</strong></p><p>Allow for the download to finish. The duration may vary based on your internet speed.</p><p><strong>Step 3: Enable Unknown Sources</strong></p><p>In your device settings, locate Security Settings and enable Unknown Sources to install YoWhatsApp.</p><p><strong>Step 4: Install YoWhatsApp</strong></p><p>Open the downloaded APK file and follow on-screen instructions to complete the installation.</p><p><strong>Step 5: Account Setup</strong></p><p>Upon installation, open YoWhatsApp and choose to create a new account or use your existing WhatsApp account.</p><p><strong>Step 6: Verification Code</strong></p><p>If you opt for your existing account, enter the verification code sent to your mobile number.</p><p><strong>Step 7: Start Using YoWhatsApp</strong></p><p>After verification, enjoy the enhanced features and customization options of YoWhatsApp for a tailored messaging experience.</p>"
+        },
+        {
+            "id": 6,
+            "name_category": "Extension",
+            "title": "YoWhatsApp Extensions",
+            "image": "file:///android_asset/image/yowap.png",
+            "description": "Exploring YoWhatsApp Extensions: Yo WhatsApp Plus and YoWhatsApp Rosa",
+            "link": "<p><strong>Yo WhatsApp Plus: Unleashing More Potential</strong></p><p>Yo WhatsApp Plus isn't a completely separate application but an extension of Yo WhatsApp, designed for users seeking additional features and versatility. While the standard version of Yo WhatsApp offers a robust set of features, some users desire even more customization and options. As a response to these demands, the development team introduced Yo WhatsApp Plus.</p><p>What sets Yo WhatsApp Plus apart is its ability to provide an extended feature set beyond what's available in the regular Yo WhatsApp. It essentially takes the already feature-rich mod to a whole new level, making it an excellent choice for those who crave even more flexibility and personalization.</p><p>With Yo WhatsApp Plus, you can expect an array of additional features and enhancements that cater to a wide range of preferences. Whether it's enhanced themes, extended privacy settings, or unique chat features, Yo WhatsApp Plus has it covered. If you're interested in exploring this extension and taking your Yo WhatsApp experience to the next level, you can easily download Yo WhatsApp Plus by following the official link below.</p><p><strong>YoWhatsApp Rosa: A Pink-Themed Paradise</strong></p><p>YoWhatsApp Rosa, often referred to as the pink theme, opens up a world of aesthetic possibilities for users who have a penchant for the color pink. If you're a fan of all things pink, this is the ideal extension to transform your Yo WhatsApp interface.</p><p>When you search for YoWhatsApp Rosa on the internet, you'll discover a plethora of charming pink themes available for your Yo WhatsApp. The Yo WhatsApp theme shop provides an extensive collection of pink-themed options for users to choose from. Whether it's soft pastel shades or vibrant fuchsia, you'll find a pink theme that perfectly suits your taste.</p><p>With YoWhatsApp Rosa, you'll never run out of pink-themed options. The extensive variety ensures that you can change your theme daily for an entire month without repeating a single one. Embrace the world of pink and surround yourself with the beauty of YoWhatsApp Rosa themes and wallpapers.</p><p><strong>Conclusion: Elevate Your YoWhatsApp Experience</strong></p><p>The availability of extensions like Yo WhatsApp Plus and YoWhatsApp Rosa adds depth and versatility to an already feature-rich messaging mod. Whether you're looking for an abundance of features or a charming pink-themed interface, these extensions provide an enhanced experience for Yo WhatsApp users.</p><p>So, if you're ready to explore the endless possibilities that Yo WhatsApp has to offer, don't hesitate to download Yo WhatsApp Plus for advanced features or YoWhatsApp Rosa for an immersion into the world of pink themes. Elevate your YoWhatsApp experience and enjoy all the unique customization options at your fingertips!</p>"
+        }
+    ],
+    "enable_data_2": true,
+    "data_2_title": "Yo Whats Section 2",
+    "data_2_image_button": "file:///android_asset/image/section2.png",
+    "Data2": [
+        {
+            "id": 1,
+            "name_category": "Guide",
+            "title": "What's New in YoWhatsApp Latest Version 2023?",
+            "image": "file:///android_asset/image/yowa.png",
+            "description": "The year 2023 brings exciting updates and improvements to YoWhatsApp (YOWS)",
+            "link": "<p>The year 2023 brings exciting updates and improvements to YoWhatsApp (YOWS), a popular WhatsApp mod known for enhanced features and customization. This latest version introduces new features and enhancements to elevate the user experience further.</p><p>1. New Msg a Number Interface: A redesigned interface for sending messages to specific contacts enhances communication.</p><p>2. Status Page Enhancements: Options to hide Save and Mark as Seen buttons on the status page provide user control.</p><p>3. Custom Font Styles: Users can load custom font styles for personalized messaging.</p><p>4. Status Cutter FAB Hiding: An option to hide the Status Cutter FAB button for a cleaner interface.</p><p>5. YOBackup (Titanium): Offers reliable daily backups for YoWhatsApp data.</p><p>6. Proxy Settings for Enhanced Privacy: Users can configure privacy settings for enhanced security.</p><p>7. Message Preservation in Vanish Mode: Allows access to messages even when they disappear in Vanish Mode.</p><p>8. Bug Fixes and Improvements: Addresses issues, including auto reply/forward crashes and fingerprint lock problems.</p><p>9. Anti-Ban Measures and Message Editing: Improved anti-ban measures, message editing, and enhanced security.</p>"
+        },
+        {
+            "id": 2,
+            "name_category": "Guide",
+            "title": "Yo WhatsApp Web",
+            "image": "file:///android_asset/image/yowa.png",
+            "description": "Yo WhatsApp Web: Exploring the Mobile-Exclusive Experience",
+            "link": "<p>Yo WhatsApp is a feature-rich WhatsApp mod designed for mobile usage, and it doesn't offer a web-based version. The mobile-centric development focuses on optimal performance and responsiveness on smartphones, ensuring a smooth messaging experience. Its enhanced features, such as custom themes and unique chat functionalities, cater to mobile users' needs and are fully optimized for mobile app usage.</p>"
+        },
+        {
+            "id": 3,
+            "name_category": "Guide",
+            "title": "How to Transfer WhatsApp Data to Yo WhatsApp",
+            "image": "file:///android_asset/image/yowa.png",
+            "description": "Transferring your WhatsApp conversations to Yo WhatsApp without losing any data is a straightforward process",
+            "link": "<p><strong>How to Transfer WhatsApp Data to Yo WhatsApp</strong></p> <p><strong>Introduction:</strong> Transferring your WhatsApp conversations to Yo WhatsApp without losing any data is a straightforward process. This article will guide you through the steps required to seamlessly migrate your chats from WhatsApp to Yo WhatsApp while keeping all your valuable conversations intact.</p> <p><strong>Step 1: Backup WhatsApp Settings</strong> - Before you begin the transfer, create a backup of your WhatsApp settings to ensure a smooth transition. This backup will help you preserve your chat history and other critical data.</p> <p><strong>Step 2: Identify Your WhatsApp Version</strong> - Make a note of the current version of WhatsApp you are using, including its package name. Also, be sure to identify the name and package of the new version of Yo WhatsApp that you intend to install.</p> <p><strong>Step 3: Rename Files</strong> - Locate the directory on your device and navigate to Android/media/. Find the file named according to your current WhatsApp version (e.g., com.whatsapp) and rename it to match the package name of the new Yo WhatsApp version (e.g., com.yowhatsapp).</p> <p><strong>Step 4: Adjust File Path</strong> - Access the renamed folder and locate the file named according to your previous WhatsApp version (e.g., WhatsApp). Rename it to match the name of Yo WhatsApp (e.g., YoWhatsApp). The file path should now appear as /Android/media/com.yowhatsapp/YoWhatsApp/.</p> <p><strong>Step 5: Launch Yo WhatsApp</strong> - Open the newly installed Yo WhatsApp and log in with your account details. Your conversations should be accessible without any data loss.</p> <p><strong>Conclusion: Seamless Transfer and Enhanced Features</strong> - By following these steps, you can smoothly transfer your WhatsApp conversations to Yo WhatsApp and enjoy the new features of the latest version while retaining your valuable chats. This process ensures that your data remains intact and accessible, allowing you to benefit from Yo WhatsApp's features without any hiccups. Enjoy the enhanced messaging experience with Yo WhatsApp!</p>"
+        },
+        {
+            "id": 4,
+            "name_category": "Update",
+            "title": "How to Begin the Yo WhatsApp Update Process",
+            "image": "file:///android_asset/image/yowa.png",
+            "description": "Keeping your Yo WhatsApp up to date ensures that you have access to the latest features and improvements",
+            "link": "<p><strong>How to Begin the Yo WhatsApp Update Process</strong></p> <p><strong>Introduction:</strong> Keeping your Yo WhatsApp up to date ensures that you have access to the latest features and improvements. To initiate the Yo WhatsApp update process, you have various channels to choose from. This article will guide you through the steps required to start updating YoWhatsApp, ensuring you enjoy the best of YOWS.</p> <p><strong>Step 1: Visit the Official Website</strong> - One of the primary ways to initiate the Yo WhatsApp update process is by visiting the official Yo WhatsApp website. The official website is a trusted source for obtaining the latest version of Yo WhatsApp. Check the website regularly to stay informed about the most recent updates and enhancements.</p> <p><strong>Step 2: Alternative Platforms</strong> - Aside from the official website, there are other platforms where you can find the latest Yo WhatsApp APK. Some popular alternatives include APKPure, Uptodown, and Malavida. These platforms often host updated versions of the Yo WhatsApp application. Be sure to choose reputable sources when downloading to ensure the integrity and security of your installation.</p> <p><strong>Step 3: Remove Old Version</strong> - Before installing the latest Yo WhatsApp version, it's advisable to remove the old version from your device. This will prevent any conflicts or compatibility issues between the older and newer versions.</p> <p><strong>Step 4: Install the Latest Version</strong> - After downloading the latest Yo WhatsApp APK, proceed with the installation. Follow the on-screen instructions to install the updated version.</p> <p><strong>Conclusion: Enjoy the Best of YOWS</strong> - By following these steps, you can effortlessly initiate the Yo WhatsApp update process. Staying up to date with the latest versions ensures you have access to the newest features and improvements, enhancing your messaging experience. Whether you choose the official website or alternative platforms, regularly updating your Yo WhatsApp ensures that you are enjoying the best of YOWS. Stay connected and embrace the enhanced capabilities of Yo WhatsApp with each update.</p>"
+        },
+        {
+            "id": 5,
+            "name_category": "Guide",
+            "title": "FAQ",
+            "image": "file:///android_asset/image/yowa.png",
+            "description": "Answering Common Questions About YoWhatsApp",
+            "link": "<p><strong>Answering Common Questions About YoWhatsApp</strong></p><p><strong>Introduction:</strong> YoWhatsApp is a popular WhatsApp mod known for its enhanced features and customization options. It's natural to have questions when considering its use. In this article, we address some common inquiries regarding YoWhatsApp to help users make informed decisions.</p><p><strong>1. Is it safe to use YoWhatsApp?</strong> - Yes, it is entirely safe to use YoWhatsApp. Privacy is a primary concern, and YoWhatsApp, like regular WhatsApp, utilizes end-to-end encryption to secure your messages. This means your messages are protected from unauthorized access. Many users, including those in business, have used this mod for months without privacy issues.</p><p><strong>2. Can I Install YoWhatsApp on iOS?</strong> - Unfortunately, YoWhatsApp is not available for iOS devices. It's specifically designed for Android devices, so you'll need an Android device to download and use it.</p><p><strong>3. Can I use YoWhatsApp alongside official WhatsApp?</strong> - Yes, you can use YoWhatsApp and WhatsApp simultaneously on the same device. However, this requires you to have two separate accounts for signing in. You cannot use a single account to sign in to both YoWhatsApp and WhatsApp simultaneously.</p><p><strong>4. Are there any YoWhatsApp account bans or privacy issues?</strong> - No, YoWhatsApp is designed with a high level of security and privacy features. It provides users with control over their privacy settings, and it employs encryption to safeguard your messages. The developers have taken measures to protect user data and ensure that unauthorized individuals cannot access your chat account.</p><p><strong>5. How do I update YoWhatsApp?</strong> - To update YoWhatsApp, visit the official YoWhatsApp website. The link available on the website is always up-to-date, ensuring you can safely obtain the latest version. Download the link to your mobile phone and follow the instructions to install the updated version.</p><p><strong>Conclusion: Making Informed Choices with YoWhatsApp</strong> - Using YoWhatsApp can enhance your messaging experience with its additional features and customization options. By addressing these common questions, we hope to provide clarity and assurance to users interested in trying YoWhatsApp. Embrace the enhanced capabilities of YoWhatsApp while maintaining the security and privacy of your messaging experience.</p>"
+        }
+    ]
+}
