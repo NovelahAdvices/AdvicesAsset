@@ -1,288 +1,275 @@
 {
-  "ads": {
-    "settings": {
-      "interval_interstitial": 3,
-      "interstitial_type": "lap",
-      "switch_ads_type": "only_banner",
-      "make_app_crash_when_app_not_live_at_play_store": false,
-      "make_app_under_maintenance": false,
-      "rate_dialog_count" : 99999
+    "ads": {
+        "settings": {
+            "interval_interstitial": 3,
+            "interstitial_type": "lap",
+            "switch_ads_type": "only_banner",
+            "make_app_crash_when_app_not_live_at_play_store": false,
+            "make_app_under_maintenance": false,
+            "rate_dialog_count": 99999
+        },
+        "ad_network": [
+            {
+                "name": "off",
+                "value": 1,
+                "appId_appKey_publisherId_gameId": "1064503741213927",
+                "banner": "1064503741213927_1064510064546628",
+                "mrec": "off",
+                "inter": "1064503741213927_1064510124546622",
+                "native_ad": "-",
+                "open_ad": "off",
+                "splash_ad": false
+            }
+        ]
     },
-
-    "ad_network": [{
-      "name": "fan",
-      "value": 1,
-
-      "appId_appKey_publisherId_gameId": "1064503741213927",
-      "banner": "1064503741213927_1064510064546628",
-      "mrec": "off",
-      "inter": "1064503741213927_1064510124546622",
-      "native_ad": "-",
-      "open_ad": "off",
-      "splash_ad": false
-    }]
-  },
-
-  "app_settings": {
-    "navigation_mode": "tab_layout_top",
-
-    "recent_fragment_list_view_mode": "small",
-    "favorite_fragment_list_view_mode": "grid",
-    "category_fragment_list_view_mode": "grid",
-    "category_activity_list_view_mode": "grid",
-    "hide_short_desc_category_activity_list": false,
-    "item_interval_native_ad_list": 4,
-
-    "enable_banner_ads": true,
-    "enable_category": false,
-    "enable_more_app": false
-  },
-
-  "More": [{
-    "id": 1,
-    "title": "IQ Test vs The Moron Test",
-    "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-    "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-  },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    }
-  ],
-
-  "Categories": [{
-    "id": 1,
-    "name_category": "Playstore",
-    "image": "file:///android_asset/image/image1.png"
-  },
-    {
-      "id": 2,
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
+    "app_settings": {
+        "navigation_mode": "navigation_drawer",
+        "recent_fragment_list_view_mode": "small",
+        "favorite_fragment_list_view_mode": "grid",
+        "category_fragment_list_view_mode": "grid",
+        "category_activity_list_view_mode": "grid",
+        "hide_short_desc_category_activity_list": false,
+        "item_interval_native_ad_list": 4,
+        "enable_banner_ads": true,
+        "enable_category": false,
+        "enable_more_app": false
     },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
-    }
-  ],
-
-  "Data": [
-  {
-	   "id": 1,
-		"name_category": "Guide",
-		"title": "How to Create AI Yearbook Photos",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "The first step to master the AI Yearbook photo trend is to download a specialized AI photo editing app that offers yearbook photo effects",
-		"link": "https://novelahappaddvices.blogspot.com/p/how-to-create-ai-yearbook-photos.html"
-  },
-  {
-	   "id": 2,
-		"name_category": "Guide",
-		"title": "Exploring the World of AI Yearbook Photos",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Exploring what they are and how they allow you to transform your current photos into vintage masterpieces",
-		"link": "https://novelahappaddvices.blogspot.com/p/exploring-world-of-ai-yearbook-photos.html"
-  },
-  {
-	   "id": 3,
-		"name_category": "Guide",
-		"title": "AI Yearbook Trend: A Step-by-Step Guide",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Let's take a closer look at how you can craft your own timeless portraits with a simple step-by-step guide",
-		"link": "https://novelahappaddvices.blogspot.com/p/ai-yearbook-trend-step-by-step-guide.html"
-  },
-  {
-	   "id": 4,
-		"name_category": "Guide",
-		"title": "Advantages of EPIK for AI Yearbook Photos",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Exploring the Advantages of EPIK for AI Yearbook Photos",
-		"link": "https://novelahappaddvices.blogspot.com/p/advantages-of-epik-for-ai-yearbook.html"
-  },
-  {
-	   "id": 5,
-		"name_category": "Guide",
-		"title": "Unveiling the AI Yearbook Trend: A Creative Revolution",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Leading the charge in this exciting trend is the Epik AI Photo Editor, a pioneering platform that empowers users to seamlessly bring their AI yearbook visions to life",
-		"link": "https://novelahappaddvices.blogspot.com/p/unveiling-ai-yearbook-trend-creative.html"
-  },
-  {
-	   "id": 6,
-		"name_category": "Guide",
-		"title": "How the AI Yearbook Trend Transforms Photos",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Unlocking the Magic: How the AI Yearbook Trend Transforms Photos",
-		"link": "https://novelahappaddvices.blogspot.com/p/how-ai-yearbook-trend-transforms-photos.html"
-  },
-  {
-	   "id": 7,
-		"name_category": "Guide",
-		"title": "Popularity of the AI Yearbook Trend",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Unveiling the Popularity of the AI Yearbook Trend",
-		"link": "https://novelahappaddvices.blogspot.com/p/popularity-of-ai-yearbook-trend.html"
-  },
-  {
-	   "id": 8,
-		"name_category": "Guide",
-		"title": "Celebrities Embrace the Allure of the AI Yearbook Trend",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "The AI yearbook trend isn't confined to the masses; it has transcended into the realm of the stars, captivating the attention of celebrities worldwide",
-		"link": "https://novelahappaddvices.blogspot.com/p/celebrities-embrace-allure-of-ai.html"
-  },
-  {
-	   "id": 9,
-		"name_category": "Guide",
-		"title": "Privacy Concerns and Crediting Issues in the AI Yearbook Trend",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Navigating Privacy Concerns and Crediting Issues in the AI Yearbook Trend",
-		"link": "https://novelahappaddvices.blogspot.com/p/privacy-concerns-and-crediting-issues.html"
-  },
-  {
-	   "id": 10,
-		"name_category": "Guide",
-		"title": "Unlocking the Future: What Lies Ahead for AI Yearbooks",
-		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-		"description": "Here's a glimpse into what the future holds for AI yearbooks",
-		"link": "https://novelahappaddvices.blogspot.com/p/unlocking-future-what-lies-ahead-for-ai.html"
-  },
-    {
-      "id": 11,
-      "name_category": "Guide",
-      "title": "Frequently Asked Questions",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvCmCCF8yZYR27pv7PCvayHjEsc1zPAuh9oyf30Pw85BCb0XpcqIB-YV_Chi_vaIAoviAIzlMlxw89I-9_-lfEmrX6Y8FpnOmyX6yG4cREonmUgUK-BaUEmx1iBbF-rYIKvDmOH2Fgh9VZY9zyeddBNfIOBAKn4ODcM2valjf2Tqg36TbHRAFkvtmIYio/s320/aiyearbook.png",
-      "description": "Demystifying AI Yearbooks: Common Questions Answered",
-      "link": "https://novelahappaddvices.blogspot.com/p/demystifying-ai-yearbooks-common.html"
-    },
-	{
-      "id": 12,
-      "name_category": "Collection",
-      "title": "Layout Inspiration",
-      "image": "https://i.pinimg.com/564x/a3/59/b6/a359b6d45cb4c600145d22fcc8374d07.jpg",
-      "description": "Yearbook Photo Layout Inspiration",
-      "link": "https://novelahappaddvices.blogspot.com/p/yearbook-photo-layout-inspiration.html"
-    },
-	  {
-      "id": 13,
-      "name_category": "Tips",
-      "title": "Unlocking the Secrets of Viral Yearbook Photos",
-      "image": "https://i.pinimg.com/736x/af/8b/9c/af8b9c8b7d7859cc00c5c68aebb6ac3c.jpg",
-      "description": "The Secret Ingredients: Yearbook Photos That Go Viral on Social Media",
-      "link": "https://novelahappaddvices.blogspot.com/p/unlocking-secrets-of-viral-yearbook.html"
-    }
-  ],
-
-  "enable_data_2": true,
-  "data_2_title": "Novelah App Advices",
-  "data_2_image_button": "file:///android_asset/image/novelabutton.png",
-
-  "Data2": [{
-    "id": 1,
-    "name_category": "Novelah Advices",
-    "title": "What is Novelah App?",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-    "description": "Exploring the World of Free Reading and Literary Exploration",
-    "link": "https://novelahappaddvices.blogspot.com/p/what-is-novelah-app.html"
-  },
-    {
-      "id": 2,
-      "name_category": "Novelah Advices",
-      "title": "Is Novelah Legit or a Scam?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-      "description": "Unveiling the Truth Behind the Reading App",
-      "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-legit-or-scam.html"
-    },
-    {
-      "id": 3,
-      "name_category": "Novelah Advices",
-      "title": "Signing Up for Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-      "description": "Step-by-Step Guide to Creating Your Account",
-      "link": "https://novelahappaddvices.blogspot.com/p/step-by-step-guide-to-creating-your.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Novelah Advices",
-      "title": "Earning Money with Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-      "description": "Exploring Opportunities for Income Generation",
-      "link": "https://novelahappaddvices.blogspot.com/p/earning-money-with-novelah.html"
-    },
-    {
-      "id": 5,
-      "name_category": "Novelah Advices",
-      "title": "How Much Money Can You Earn from Novelah?",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
-      "description": "Novelah has gained attention for its promise of turning reading into a source of income",
-      "link": "https://novelahappaddvices.blogspot.com/p/how-much-money-can-you-earn-from-novelah.html"
-    },
-    {
-      "id": 6,
-      "name_category": "Guide",
-      "title": "Earning Points on Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "Earning Points on Novelah: Strategies for Maximizing Your Income",
-      "link": "https://novelahappaddvices.blogspot.com/p/earning-points-on-novelah-strategies.html"
-    },
-    {
-      "id": 7,
-      "name_category": "Guide",
-      "title": "How to Invite Friends on Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "How to Invite Friends on Novelah: Sharing the Reading Experience",
-      "link": "https://novelahappaddvices.blogspot.com/p/how-to-invite-friends-on-novelah.html"
-    },
-    {
-      "id": 8,
-      "name_category": "Guide",
-      "title": "How to Enter an Invite Code on Novelah App",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "Simple process of entering an invitation code within the Novelah app.",
-      "link": "https://novelahappaddvices.blogspot.com/p/how-to-enter-invite-code-on-novelah-app.html"
-    },
-    {
-      "id": 9,
-      "name_category": "Guide",
-      "title": "How to Withdraw Money from the Novelah App",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": " Steps required to withdraw money from Novelah.",
-      "link": "https://novelahappaddvices.blogspot.com/p/how-to-withdraw-money-from-novelah-app.html"
-    },
-    {
-      "id": 10,
-      "name_category": "Guide",
-      "title": "Quick Ways to Earn Money from Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": " Here, we'll guide you through strategies that can swiftly enhance your points count, allowing you to earn money more rapidly",
-      "link": "https://novelahappaddvices.blogspot.com/p/quick-ways-to-earn-money-from-novelah.html"
-    },
-    {
-      "id": 11,
-      "name_category": "Guide",
-      "title": "Is Novelah App Free? Unraveling the Cost-Free Experience",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "Let's delve into the details and explore whether Novelah truly offers a free experience",
-      "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-app-free.html"
-    },
-    {
-      "id": 12,
-      "name_category": "Guide",
-      "title": "Conclusion: Novelah",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "Let's recap the journey and the opportunities it offers",
-      "link": "https://novelahappaddvices.blogspot.com/p/conclusion-novelah.html"
-    },
-    {
-      "id": 13,
-      "name_category": "Guide",
-      "title": "Novelah FAQ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
-      "description": "Your Comprehensive Guide to Novelah Questions",
-      "link": "https://novelahappaddvices.blogspot.com/p/novelah-faq-your-comprehensive-guide-to.html"
-    }
-  ]
+    "More": [
+        {
+            "id": 1,
+            "title": "IQ Test vs The Moron Test",
+            "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+        },
+        {
+            "id": 2,
+            "title": "Skins Editor for Minecraft PE",
+            "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Playstore",
+            "image": "file:///android_asset/image/image1.png"
+        },
+        {
+            "id": 2,
+            "name_category": "Tutorial",
+            "image": "file:///android_asset/image/image2.webp"
+        },
+        {
+            "id": 3,
+            "name_category": "Reskin",
+            "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "name_category": "Vidyo AI",
+            "title": "What is Vidyo AI?",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Unlocking the Power of Vidyo AI: Revolutionizing Video Editing with Artificial Intelligence",
+            "link": "<p><strong>Unlocking the Power of Vidyo AI: Revolutionizing Video Editing with Artificial Intelligence</strong></p><p>In an era dominated by social media and the constant quest for the perfect video content, the need for effective video editing tools has never been greater. Enter Vidyo AI, a groundbreaking video editing application that harnesses the remarkable capabilities of artificial intelligence to make video editing a breeze, even for those who have never edited a video before. With the power of machine learning at its core, Vidyo AI is set to change the game by enabling anyone to create professional-looking videos effortlessly.</p><p><strong>The Rise of Vidyo AI</strong></p><p>Vidyo AI is a testament to the rapid advancement of artificial intelligence technology. In a world where we are inundated with videos on various platforms, from personal vlogs to marketing content, the ability to produce captivating videos has become a valuable skill. However, not everyone has the time or expertise to master the intricacies of video editing software. Vidyo AI bridges this gap by making the process both intuitive and efficient.</p><p><strong>Automated Video Editing</strong></p><p>The magic behind Vidyo AI lies in its ability to automatically identify the best moments within your video footage. Using advanced machine learning algorithms, it analyzes your content, detects key highlights, and seamlessly stitches them together to create a professional-quality video. This automated process is a game-changer for those who lack the time or expertise to edit videos manually. Whether it's a family vacation video or a product demonstration for your business, Vidyo AI transforms raw footage into a polished and engaging final product.</p><p><strong>Diverse Output Options</strong></p><p>Vidyo AI isn't limited to producing a single type of video. It offers a range of options, allowing you to customize your content for various platforms and purposes. You can transform your content into exciting highlight reels, compelling trailers, or short, shareable clips tailored for social media. The versatility of Vidyo AI means that you can repurpose your video content for different audiences and platforms, maximizing its impact and reach.</p><p><strong>The Future of Video Production</strong></p><p>Although Vidyo AI is still in development, it is already poised to redefine how we approach video production. The application is set to democratize video editing, making it accessible to a wider audience, from aspiring content creators to small businesses and beyond. As AI continues to evolve, Vidyo AI is a glimpse into the future of content creation, where the creative potential of individuals is unleashed with the assistance of advanced technology.</p><p>In conclusion, Vidyo AI represents a significant leap in the world of video editing. It harnesses the power of artificial intelligence to simplify the video editing process, making it accessible to a broader audience. As this technology continues to develop, Vidyo AI promises to be a game-changer for those looking to create professional-quality videos without the need for extensive editing skills or resources. With Vidyo AI, the future of video production is brighter and more accessible than ever.</p>"
+        },
+        {
+            "id": 2,
+            "name_category": "Vidyo AI",
+            "title": "Features of Vidyo AI",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Exploring the Remarkable Features of Vidyo AI",
+            "link": "<p><strong>Exploring the Remarkable Features of Vidyo AI</strong></p><p>In the ever-evolving world of video editing, Vidyo AI stands out as a revolutionary application that brings artificial intelligence into the creative process. This innovative tool offers a range of key features that make video editing accessible, efficient, and, most importantly, fun. Let's delve into the essential attributes that set Vidyo AI apart.</p><p><strong>Instant Spotlights</strong></p><p>Vidyo AI is not your ordinary video editing software; it's a smart assistant that identifies the most thrilling segments of your videos with remarkable precision. Say goodbye to the days of painstakingly combing through footage to find those perfect moments. Vidyo AI takes the grunt work out of the equation, allowing you to focus on the creative aspect of video production.</p><p><strong>Creative Flexibility</strong></p><p>One of the most significant advantages of Vidyo AI is its adaptability. This application empowers you to experiment with a diverse range of video formats, catering to different needs and preferences. Whether you're aiming to create energetic highlight reels, tantalizing sneak-peek trailers, or engaging social media snippets, Vidyo AI is your versatile companion. It's like having a toolbox filled with multiple editing tools, all conveniently packed into one user-friendly platform.</p><p><strong>User-Friendly Design</strong></p><p>Vidyo AI has been thoughtfully designed to cater to users of all levels of expertise. Even if you're a complete novice when it comes to video editing, you'll find Vidyo AI's user-friendly interface a breath of fresh air. No more technical headaches or steep learning curves. With Vidyo AI, you can jump right into the world of video editing and transform your raw footage into captivating content without breaking a sweat.</p><p>In conclusion, Vidyo AI's key features make it a game-changer in the realm of video editing. Its ability to instantly identify the most exciting parts of your videos, coupled with its creative flexibility and user-friendly design, empowers creators of all backgrounds to produce high-quality videos effortlessly. With Vidyo AI, the future of video editing is bright, accessible, and filled with creative potential.</p>"
+        },
+        {
+            "id": 3,
+            "name_category": "Vidyo AI",
+            "title": "Use Cases Vidyo AI",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Unlocking the Potential of Vidyo AI: Exploring Its Use Cases",
+            "link": "<p><strong>Unlocking the Potential of Vidyo AI: Exploring Its Use Cases</strong></p><p>In the dynamic world of video content, Vidyo AI emerges as a transformative tool that leverages the capabilities of artificial intelligence to redefine video editing. This innovative platform is not just a tool; it's a game-changer that promises to revolutionize the way we create and distribute videos. Let's dive into the diverse use cases where Vidyo AI shines.</p><p><strong>1. Social Media Brilliance</strong></p><p>For those seeking to elevate their social media presence, Vidyo AI offers an ingenious solution. It empowers you to craft snappy, attention-grabbing short clips from longer videos, providing an engaging way to entice your audience and encourage them to explore your content further.</p><p><strong>2. Marketing Marvels</strong></p><p>Vidyo AI streamlines the creation of compelling promotional videos. By extracting the essence of your existing content, it enables you to design marketing campaigns that resonate with your target audience. This means you can effortlessly create marketing content that hits the bullseye, driving your message home effectively.</p><p><strong>3. E-Learning Excellence</strong></p><p>In the realm of e-learning, Vidyo AI offers a powerful tool for educators and learners alike. It facilitates the transformation of traditional learning materials into interactive videos. You can easily add captions, transcripts, and other features that enhance the learning experience, making it accessible and engaging for everyone.</p><p><strong>4. Live Stream Enhancement</strong></p><p>Say goodbye to the frustrations of audio and video glitches during live streaming. Vidyo AI steps in to identify and rectify these hiccups, ensuring a polished and professional live-streaming experience. This feature is a game-changer for content creators who rely on live streams to engage their audience.</p><p><strong>5. Effortless Video Production</strong></p><p>Need to edit, enhance, or add effects to your videos? Vidyo AI has your back. It automates time-consuming tasks such as editing, color grading, and effects, allowing for quicker and more cost-effective video production. Whether you're a professional videographer or an amateur content creator, Vidyo AI simplifies the video production process.</p><p>In conclusion, Vidyo AI is a promising innovation that transcends traditional video editing. Its application spans across social media, marketing, e-learning, live streaming, and general video production, making it a versatile solution for a variety of needs. While Vidyo AI is still in development, its potential to change the way we create and distribute videos is immense. Prepare to witness the future of video editing like never before!</p>"
+        },
+        {
+            "id": 4,
+            "name_category": "Vidyo AI",
+            "title": "Is Vidyo AI Free to Use?",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Let's delve into what you can expect from Vidyo AI's free version and how it can pave the way for exploring its premium features",
+            "link": "<p><strong>Is Vidyo AI Free to Use?</strong></p><p>Vidyo AI, the cutting-edge video editing application powered by artificial intelligence, offers both free and premium versions. The free version is designed to give users a glimpse of its capabilities, making it accessible to a broader audience. Let's delve into what you can expect from Vidyo AI's free version and how it can pave the way for exploring its premium features.</p><p><strong>The Free Version: A Taste of Vidyo AI</strong></p><p>Vidyo AI's free version serves as an excellent entry point for individuals who are new to the platform or those who are looking for basic video editing functionalities. It provides a sampling of Vidyo AI's AI-driven editing capabilities, allowing users to get a feel for the tool's potential.</p><p><strong>Exploring Basic Capabilities</strong></p><p>In the free version, users can expect to access basic video editing features. This may include automated highlight selection, simple clip trimming, and easy export options. These features are perfect for those looking to enhance their videos without delving into the complexities of advanced video editing software.</p><p><strong>The Path to Premium Features</strong></p><p>As users become more comfortable with Vidyo AI and wish to explore additional possibilities, the platform offers premium features. These features typically include advanced editing tools, more versatile output options, and a broader range of AI-driven enhancements.</p><p><strong>Enhanced Video Editing</strong></p><p>Premium versions of Vidyo AI often unlock advanced editing capabilities, such as in-depth color correction, creative effects, and more sophisticated transitions. This enables users to create highly polished and professional videos with ease.</p><p><strong>Diverse Output Formats</strong></p><p>Premium users may enjoy a wider array of output formats, allowing for greater flexibility in sharing their content across various platforms. From social media snippets to full-length videos, Vidyo AI's premium features cater to diverse needs.</p><p><strong>AI-Powered Enhancements</strong></p><p>Advanced AI-driven features like real-time content analysis, voice recognition, and more can be part of Vidyo AI's premium offering. These features take video editing to a whole new level, simplifying complex tasks and providing intelligent suggestions.</p><p>In conclusion, Vidyo AI is accessible through a free version that provides a glimpse of its capabilities. This entry-level option is perfect for those who want to get started with AI-powered video editing. As users become more proficient and seek more advanced features, they have the option to explore Vidyo AI's premium features, opening the door to a broader range of possibilities and an even more impressive video editing experience. Whether you're a novice or a pro, Vidyo AI offers a solution tailored to your needs.</p>"
+        },
+        {
+            "id": 5,
+            "name_category": "Vidyo AI",
+            "title": "Vidyo AI: A Tool for Every Creator",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Vidyo AI offers a range of features and benefits that can elevate your content creation game",
+            "link": "<p><strong>Vidyo AI: A Tool for Every Creator</strong></p><p>In the ever-evolving landscape of digital content, Vidyo AI stands as a versatile tool that caters to a diverse audience. Whether you're a seasoned content marketer, a small business owner looking to boost ROI, a professional video creator, or a beginner taking your first steps into the world of video production, Vidyo AI offers a range of features and benefits that can elevate your content creation game.</p><p><strong>For Content Marketers: Crafting Compelling Narratives</strong></p><p>Content marketers often grapple with the challenge of making their content stand out in the digital noise. Vidyo AI acts as a catalyst, helping marketers craft visually compelling narratives. Its AI-driven features, such as auto-captioning and video clipping, enhance engagement and expand reach. It simplifies the process of transforming ideas into captivating videos that resonate with the audience.</p><p><strong>For Small Business Owners: Better ROI</strong></p><p>Small business owners can harness Vidyo AI's user-friendly interface to create professional-quality videos without the need for a substantial budget or a dedicated team. This not only saves on production costs but also amplifies brand visibility and customer engagement. Vidyo AI empowers small businesses to compete on a level playing field in the digital marketing arena.</p><p><strong>For Seasoned Video Creators: Streamlined Production</strong></p><p>Experienced video creators appreciate the streamlined process that Vidyo AI offers. It automates repetitive tasks, allowing them to focus more on the creative aspects of video production. With Vidyo AI's assistance, video creators can bring their artistic visions to life efficiently and with a professional touch.</p><p><strong>For Beginners: Intuitive Learning and Growth</strong></p><p>Vidyo AI doesn't leave beginners behind. With its intuitive design and a variety of templates, newcomers can easily venture into the world of video creation. It provides a platform for learning and growth, enabling them to produce standout content from the get-go. Beginners can explore their creativity and develop their skills without the steep learning curve that often comes with video editing software.</p><p>In conclusion, Vidyo AI stands as a one-stop solution that enhances the video creation experience for professionals and novices alike. It empowers content marketers to engage and captivate their audience, small business owners to maximize ROI, seasoned video creators to streamline production, and beginners to embark on their creative journey. Vidyo AI is not just a tool; it's a creative partner that caters to the unique needs of every content creator.</p>"
+        },
+        {
+            "id": 6,
+            "name_category": "Vidyo AI",
+            "title": "How to Use Vidyo AI",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "How to Use Vidyo AI: A Step-by-Step Guide",
+            "link": "<p><strong>How to Use Vidyo AI: A Step-by-Step Guide</strong></p><p>Vidyo AI is a powerful video editing tool that opens up a world of creative possibilities. Whether you're a seasoned videographer or a novice looking to enhance your video content, here's a step-by-step guide on how to make the most of Vidyo AI.</p><p><strong>Step 1: Sign Up</strong></p><p>1. Visit the Vidyo AI website.<br>2. Click on the Sign Up button, usually located at the top right corner of the page.<br>3. Fill in the necessary details, including your name and email address, and create a password.<br>4. Complete the sign-up process by verifying your email address.</p><p><strong>Step 2: Setting Up Your Profile</strong></p><p>1. Log in to your Vidyo AI account.<br>2. Navigate to the profile section to set up your profile with relevant details and preferences.</p><p><strong>Step 3: Exploring the Dashboard</strong></p><p>1. Familiarize yourself with the Vidyo AI dashboard.<br>2. Explore the various features and tools available at your disposal.</p><p><strong>Step 4: Uploading Your Video</strong></p><p>1. Click on the Upload button, typically located at the center or top of the dashboard.<br>2. Select the video file you want to edit from your device and upload it to the platform.</p><p><strong>Step 5: Utilizing Editing Features</strong></p><p>1. Once the video is uploaded, access the editing panel.<br>2. Utilize the various editing features, including:<br>   - Auto-video Captioning: Add automatic captions to your video.<br>   - Video Resizing: Adjust the size of your video to fit different platforms.<br>   - Auto Video Chapters: Segment your video into chapters automatically.<br>   - Video Clipping: Create short clips from your video.<br>   - Social Media Templates: Apply different templates suitable for various social media platforms.</p><p><strong>Step 6: Previewing Your Video</strong></p><p>1. After editing, preview your video to see the changes and ensure it meets your expectations.</p><p><strong>Step 7: Exporting Your Video</strong></p><p>1. Once you're satisfied with your edited video, click on the Export button.<br>2. Choose the desired format and resolution, including the option for 1080p downloads.<br>3. Download the video to your device or share it directly on social media platforms.</p><p><strong>Step 8: Seeking Help and Support</strong></p><p>1. If you encounter any issues or have queries, refer to the help section or contact customer support for assistance.</p><p>In conclusion, Vidyo AI empowers you to edit and enhance your videos with ease. Whether you're looking to add captions, resize videos, create chapters, or apply templates, Vidyo AI's user-friendly platform offers a seamless editing experience. Make the most of this powerful tool to take your video content to the next level.</p>"
+        },
+        {
+            "id": 7,
+            "name_category": "Vidyo AI",
+            "title": "Vidyo AI Pricing",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Understanding Vidyo AI Pricing: Unleashing the Power of Choice",
+            "link": "<p><strong>Understanding Vidyo AI Pricing: Unleashing the Power of Choice</strong></p><p>Vidyo AI, the groundbreaking video editing application driven by artificial intelligence, offers a pricing structure that caters to a variety of users, from casual content creators to professional videographers and organizations. Let's explore the pricing tiers and what they offer.</p><p><strong>1. Free Version</strong></p><p>For those looking to dip their toes into the world of Vidyo AI, the free version provides an excellent starting point. This tier includes:<br>- Access to basic editing features<br>- The ability to work on a limited number of projects<br>- Community support access for assistance and guidance</p><p>The free version is ideal for beginners and individuals looking to explore Vidyo AI's capabilities without committing to a paid subscription.</p><p><strong>2. Paid Subscription ($29.99/month)</strong></p><p>Vidyo AI's paid subscription is tailored for users who require more advanced features and professional video editing capabilities. This subscription includes:<br>- Access to advanced features that enable professional video editing<br>- Unlimited projects, allowing you to work on multiple videos simultaneously<br>- Priority customer support for timely assistance with any issues or inquiries</p><p>This subscription tier is well-suited for content creators, marketers, and videographers who rely on video content as a crucial part of their work.</p><p><strong>3. Enterprise Solutions</strong></p><p>Vidyo AI offers enterprise solutions with customized plans to meet the specific needs of organizations. These plans may include:<br>- Dedicated support and training for efficient onboarding and continued assistance<br>- Enhanced security features to protect sensitive corporate data<br>- Tailored pricing structures based on the organization's requirements</p><p>Enterprise solutions are ideal for businesses and institutions that demand a comprehensive video editing solution with a focus on security, scalability, and collaboration.</p><p><strong>4. Additional Information</strong></p><p>- Vidyo AI provides a free trial, allowing users to explore the features and functionalities of the platform before committing to a subscription.<br>- Discounts on annual subscriptions are available, providing cost-effective options for long-term users.<br>- Vidyo AI offers a money-back guarantee for unsatisfied users, ensuring that customers can try the platform with confidence.</p><p>In conclusion, Vidyo AI's pricing structure provides a range of choices to accommodate different users' needs. Whether you're a beginner, a professional content creator, or an organization seeking comprehensive video editing solutions, Vidyo AI's pricing options empower you to harness the full potential of this AI-driven tool, enhancing your video editing experience and creativity.</p>"
+        },
+        {
+            "id": 8,
+            "name_category": "Vidyo AI",
+            "title": "Pros and Cons of Vidyo AI",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Pros and Cons of Vidyo AI: Unlocking the Power of AI Video Editing",
+            "link": "<p><strong>Pros and Cons of Vidyo AI: Unlocking the Power of AI Video Editing</strong></p><p>Vidyo AI, with its innovative approach to video editing, offers a unique set of advantages and considerations. Here's a breakdown of the pros and cons to help you make an informed decision.</p><p><strong>Pros</strong></p><p>1. AI-Powered Editing: Vidyo AI harnesses the power of artificial intelligence to streamline and simplify the video editing process. This means that it can automatically identify and enhance key aspects of your videos, saving you time and effort.</p><p>2. Enhanced Auto-Captioning: Automatic captioning is a game-changer for accessibility and engagement. Vidyo AI's auto-captioning feature ensures that your videos are more inclusive and can reach a wider audience.</p><p>3. Versatile Resizing Options: Vidyo AI provides versatile resizing options, allowing you to adapt your videos to various platforms and screen sizes. This feature ensures that your content looks its best regardless of where it's viewed.</p><p>4. Time-Saving Capabilities: The automation and AI-driven features of Vidyo AI significantly reduce the time required for video editing. This efficiency is a boon for content creators with busy schedules.</p><p>5. Endorsed by Top Creators: Vidyo AI's recognition and endorsement by top content creators in the industry speak to its effectiveness and appeal among professionals.</p><p>6. Social Media-Focused Templates: Vidyo AI offers templates specifically designed for various social media platforms. This makes it easy to create content tailored to the unique requirements of each platform.</p><p><strong>Cons</strong></p><p>1. Learning Curve for Newbies: While Vidyo AI is user-friendly, newcomers to video editing may still face a learning curve. Understanding the platform's full potential and features can take some time.</p><p>2. Overwhelming Advanced Features: For beginners, the advanced features of Vidyo AI might seem overwhelming. These features are a major asset for professionals but may not be immediately accessible for novices.</p><p>3. Limited Manual Customization: Vidyo AI's focus on automation means that it may have limitations when it comes to detailed manual customization. Users seeking precise control over every aspect of their videos may find these limitations restrictive.</p><p>In conclusion, Vidyo AI's AI-powered editing and automation features offer significant advantages, particularly for experienced content creators looking to save time and enhance their videos. However, there may be a learning curve for newcomers, and the platform's advanced features could be initially overwhelming. Ultimately, the choice to use Vidyo AI should be based on your specific needs and your comfort level with AI-driven video editing.</p>"
+        },
+        {
+            "id": 9,
+            "name_category": "Vidyo AI",
+            "title": "Vidyo AI Alternatives",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Exploring Vidyo AI Alternatives: Diving into the Competition",
+            "link": "<p><strong>Exploring Vidyo AI Alternatives: Diving into the Competition</strong></p><p>Vidyo AI, with its innovative AI-driven video editing capabilities, faces competition from several other platforms that cater to various aspects of content creation and enhancement. Let's take a closer look at some of the noteworthy alternatives to Vidyo AI and delve into a head-to-head comparison with one of them: Opus Clip.</p><p><strong>Vidyo AI Alternatives:</strong></p><p>1. CapCut: A versatile video editing tool that competes with Vidyo AI in the video editing domain.<br>2. Captions.ai and VEED.io: These platforms focus on AI-driven subtitling, providing alternatives to Vidyo AI's captioning capabilities.<br>3. ContentFries and Repurpose.io: These platforms specialize in content repurposing, allowing users to transform and reuse their content across various platforms.<br>4. Descript: A platform known for audio editing, which serves as an alternative to Vidyo AI's audio-related features.<br>5. Headliner.app: Designed for podcast promotion, it offers a solution for promoting audio content effectively.<br>6. Opus Clip: An alternative to Vidyo AI, Opus Clip primarily focuses on AI video editing and offers unique features for identifying the most compelling hooks in your videos.</p><p><strong>Vidyo AI vs. Opus Clip: A Comparative Analysis</strong></p><p>Now, let's compare Vidyo AI with one of its direct competitors, Opus Clip:<br><strong>Vidyo AI:</strong><br>- Offers a broad range of categories, including AI video generators and social media video tools, in addition to AI video editing.<br>- Provides a pricing structure that includes a free version and trial for users to explore its capabilities.<br>- Receives high overall ratings and user satisfaction in terms of ease of use, features, design, and support.<br><strong>Opus Clip:</strong><br>- Primarily focuses on AI video editing, offering specialized tools for enhancing videos.<br>- A newer player in the market, specializing in video content improvement.<br>- Includes a feature that analyzes your video to identify the most compelling hooks for improved engagement.<br>Both Vidyo AI and Opus Clip receive high overall ratings, indicating their effectiveness in the field of AI video editing. While Vidyo AI offers a wider range of features and has a well-established presence, Opus Clip aims to stand out with its unique hook identification feature.<br>In conclusion, the choice between Vidyo AI and its alternatives depends on your specific needs and preferences. Each platform has its unique strengths, and your decision should align with your content creation objectives and the particular aspects of video editing or enhancement that matter most to you.</p>"
+        },
+        {
+            "id": 10,
+            "name_category": "Vidyo AI",
+            "title": "Why Vidyo AI Stands Out",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Why Vidyo AI Stands Out: The Choice Over Other Alternatives",
+            "link": "<p><strong>Why Vidyo AI Stands Out: The Choice Over Other Alternatives</strong></p><p>In a world filled with content creation tools and video editing platforms, Vidyo AI distinguishes itself by offering a robust set of features that cater to both beginners and professionals. Here's why Vidyo AI might be the preferred choice over other alternatives:</p><p><strong>1. Advanced AI Integration</strong></p><p>Vidyo AI takes video creation to the next level by integrating advanced artificial intelligence. The platform's AI-driven features, such as auto-captioning and text-to-video generators, not only save time but also boost productivity. With Vidyo AI, you can efficiently transform your ideas into captivating videos, thanks to the power of AI.</p><p><strong>2. User-Friendly Interface</strong></p><p>One of Vidyo AI's standout features is its user-friendly interface. Whether you're a seasoned video creator or a novice, the intuitive design minimizes the learning curve. This means that you can start crafting impressive content swiftly, without the need for extensive training or prior video editing experience.</p><p><strong>3. High-Quality Output</strong></p><p>Vidyo AI is committed to ensuring high-quality output. With options for 1080p video downloads, your content is presented in the best possible way. This enhancement in video quality contributes to a superior viewer experience, making your content more engaging and professional.</p><p><strong>4. Transparent Pricing</strong></p><p>Vidyo AI believes in transparency when it comes to pricing. The platform offers a clear pricing structure, including a free version and a trial period. This allows users to explore and gauge the platform's value before making any financial commitments. It's all about making sure you get what you pay for.</p><p><strong>5. Excellent Customer Support</strong></p><p>Responsive and helpful customer support is one of Vidyo AI's strong suits. The platform is known for its readiness to assist with any user queries or challenges. This ensures that you're never left in the dark when you need assistance with your video projects.</p><p><strong>6. Positive User Reviews</strong></p><p>Vidyo AI has garnered high user ratings across various platforms. These positive reviews underscore the platform's reliability and user satisfaction. When many users consistently report their positive experiences, it's a testament to the platform's effectiveness.</p><p><strong>7. Training and Resources</strong></p><p>To empower users to make the most of the platform, Vidyo AI provides comprehensive training resources. These resources range from documentation to live training sessions, ensuring that users have the support and guidance they need to unlock the platform's full potential.</p><p>In conclusion, Vidyo AI stands out as a versatile and efficient video creation tool that offers advanced AI integration, a user-friendly interface, high-quality output, transparent pricing, excellent customer support, positive user reviews, and comprehensive training resources. These features collectively make Vidyo AI a compelling choice for content creators looking to elevate their video editing experience.</p>"
+        },
+        {
+            "id": 11,
+            "name_category": "Vidyo AI",
+            "title": "In Conclusion",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "In Conclusion: Vidyo AI - A Seamless Blend of AI and User-Centric Excellence",
+            "link": "<p><strong>In Conclusion: Vidyo AI - A Seamless Blend of AI and User-Centric Excellence</strong></p><p>In the ever-evolving landscape of video editing tools, Vidyo AI has successfully carved its niche as a frontrunner. Its success can be attributed to its seamless fusion of cutting-edge artificial intelligence capabilities with a user-centric approach. Let's sum up why Vidyo AI stands out:</p><p><strong>1. The Power of AI with User-Friendly Tools</strong></p><p>Vidyo AI's greatest strength lies in its ability to harness the power of artificial intelligence while providing user-friendly tools. This unique combination makes it equally accessible and efficient for both beginners and seasoned professionals. No matter the purpose, whether crafting content for social media or preparing webinars, Vidyo AI ensures exceptional quality with remarkable ease.</p><p><strong>2. Transparent Pricing and Value</strong></p><p>Vidyo AI's commitment to transparency in pricing is a boon for users. With a clear pricing structure that includes a free version and a trial, you can explore the platform's capabilities without any financial uncertainty. This transparency ensures you get true value for your investment, making Vidyo AI a go-to choice for all your video editing needs.</p><p><strong>3. Unmatched Support</strong></p><p>Customer support is a pillar of Vidyo AI's success. The platform is renowned for its responsive and helpful support, ensuring that users are never left in the dark when they need assistance. This commitment to support extends to both beginners and experienced users, enhancing the overall user experience.</p><p>In a world where video content plays a pivotal role in communication, marketing, and education, Vidyo AI has emerged as a reliable ally for creators. Its ability to seamlessly blend advanced AI capabilities with a user-focused design has made it a leader in the field of video editing. Whether you're just starting your video creation journey or looking to enhance your professional content, Vidyo AI is a powerful tool that promises exceptional results with ease.</p>"
+        },
+        {
+            "id": 12,
+            "name_category": "Vidyo AI",
+            "title": "Frequently Asked Questions",
+            "image": "file:///android_asset/image/vidyo.png",
+            "description": "Frequently Asked Questions (FAQs) about Vidyo AI",
+            "link": "<p><strong>Frequently Asked Questions (FAQs) about Vidyo AI</strong></p><p>If you're curious about Vidyo AI and how it can enhance your video editing experience, you're not alone. Here are some common questions and answers to help you better understand this innovative platform:</p><p><strong>1. What is Vidyo AI, and how does it work?</strong></p><p>Vidyo AI is a video editing application that harnesses the power of artificial intelligence to automate and streamline the video editing process. It identifies the most engaging moments in your videos, offers various editing tools, and simplifies tasks like auto-captioning.</p><p><strong>2. Is Vidyo AI suitable for beginners?</strong></p><p>Yes, Vidyo AI is designed with user-friendliness in mind. Even if you're new to video editing, you'll find its intuitive interface and automation features make the process accessible and efficient.</p><p><strong>3. What types of videos can I create with Vidyo AI?</strong></p><p>Vidyo AI is versatile and allows you to create a wide range of video content. Whether you're crafting social media clips, marketing materials, e-learning content, or live streams, Vidyo AI can be a valuable tool.</p><p><strong>4. Does Vidyo AI support high-quality video output?</strong></p><p>Yes, Vidyo AI ensures high-quality output with options for 1080p video downloads. This feature enhances the overall viewing experience and is suitable for various platforms.</p><p><strong>5. Is there a free version of Vidyo AI?</strong></p><p>Yes, Vidyo AI offers a free version that provides access to basic editing features. It's a great way to explore the platform's capabilities before deciding to upgrade to premium features.</p><p><strong>6. What is the pricing structure for Vidyo AI's premium features?</strong></p><p>Vidyo AI offers a paid subscription plan priced at $29.99 per month. This subscription grants access to advanced features for professional video editing, unlimited projects, and priority customer support.</p><p><strong>7. Are there enterprise solutions available for organizations?</strong></p><p>Yes, Vidyo AI offers customized enterprise plans tailored to the specific needs of organizations. These plans may include dedicated support, training, and enhanced security features.</p><p><strong>8. Does Vidyo AI provide customer support and training resources?</strong></p><p>Vidyo AI is known for its responsive customer support, ensuring users receive assistance when needed. Additionally, the platform offers comprehensive training resources, including documentation and live training sessions, to help users maximize its potential.</p><p><strong>9. Can I try Vidyo AI before committing to a subscription?</strong></p><p>Yes, Vidyo AI provides a free trial that allows users to explore the platform's features and functionalities before making a financial commitment.</p><p><strong>10. What if I'm unsatisfied with Vidyo AI?</strong></p><p>Vidyo AI offers a money-back guarantee for unsatisfied users, ensuring that customers can try the platform with confidence.</p><p>If you have more questions or need further assistance, don't hesitate to reach out to Vidyo AI's customer support. The platform is committed to helping users make the most of their video editing experience.</p>"
+        }
+    ],
+    "enable_data_2": true,
+    "data_2_title": "Novelah App Advices",
+    "data_2_image_button": "file:///android_asset/image/novelabutton.png",
+    "Data2": [
+        {
+            "id": 1,
+            "name_category": "Novelah Advices",
+            "title": "What is Novelah App?",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+            "description": "Exploring the World of Free Reading and Literary Exploration",
+            "link": "https://novelahappaddvices.blogspot.com/p/what-is-novelah-app.html"
+        },
+        {
+            "id": 2,
+            "name_category": "Novelah Advices",
+            "title": "Is Novelah Legit or a Scam?",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+            "description": "Unveiling the Truth Behind the Reading App",
+            "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-legit-or-scam.html"
+        },
+        {
+            "id": 3,
+            "name_category": "Novelah Advices",
+            "title": "Signing Up for Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+            "description": "Step-by-Step Guide to Creating Your Account",
+            "link": "https://novelahappaddvices.blogspot.com/p/step-by-step-guide-to-creating-your.html"
+        },
+        {
+            "id": 4,
+            "name_category": "Novelah Advices",
+            "title": "Earning Money with Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+            "description": "Exploring Opportunities for Income Generation",
+            "link": "https://novelahappaddvices.blogspot.com/p/earning-money-with-novelah.html"
+        },
+        {
+            "id": 5,
+            "name_category": "Novelah Advices",
+            "title": "How Much Money Can You Earn from Novelah?",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh381BW2GuoLIY1MJSHOymkuilKKmjwEizCq_U-i2dUv07y9oGBwZU_3I9RL8F96306aywOPyxDPuVIn5Y9YLTZcL4VtWkPVnwSLKNiW3b6PJkvWoB96NJ44-RJ-OKiF-dmQWdDgn1J_HNiT7b_4XIbWbTRhpEiryJcU0mDpRyqW_LtMarxAGzhbcsEzM/s320/novelah.png",
+            "description": "Novelah has gained attention for its promise of turning reading into a source of income",
+            "link": "https://novelahappaddvices.blogspot.com/p/how-much-money-can-you-earn-from-novelah.html"
+        },
+        {
+            "id": 6,
+            "name_category": "Guide",
+            "title": "Earning Points on Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "Earning Points on Novelah: Strategies for Maximizing Your Income",
+            "link": "https://novelahappaddvices.blogspot.com/p/earning-points-on-novelah-strategies.html"
+        },
+        {
+            "id": 7,
+            "name_category": "Guide",
+            "title": "How to Invite Friends on Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "How to Invite Friends on Novelah: Sharing the Reading Experience",
+            "link": "https://novelahappaddvices.blogspot.com/p/how-to-invite-friends-on-novelah.html"
+        },
+        {
+            "id": 8,
+            "name_category": "Guide",
+            "title": "How to Enter an Invite Code on Novelah App",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "Simple process of entering an invitation code within the Novelah app.",
+            "link": "https://novelahappaddvices.blogspot.com/p/how-to-enter-invite-code-on-novelah-app.html"
+        },
+        {
+            "id": 9,
+            "name_category": "Guide",
+            "title": "How to Withdraw Money from the Novelah App",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": " Steps required to withdraw money from Novelah.",
+            "link": "https://novelahappaddvices.blogspot.com/p/how-to-withdraw-money-from-novelah-app.html"
+        },
+        {
+            "id": 10,
+            "name_category": "Guide",
+            "title": "Quick Ways to Earn Money from Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": " Here, we'll guide you through strategies that can swiftly enhance your points count, allowing you to earn money more rapidly",
+            "link": "https://novelahappaddvices.blogspot.com/p/quick-ways-to-earn-money-from-novelah.html"
+        },
+        {
+            "id": 11,
+            "name_category": "Guide",
+            "title": "Is Novelah App Free? Unraveling the Cost-Free Experience",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "Let's delve into the details and explore whether Novelah truly offers a free experience",
+            "link": "https://novelahappaddvices.blogspot.com/p/is-novelah-app-free.html"
+        },
+        {
+            "id": 12,
+            "name_category": "Guide",
+            "title": "Conclusion: Novelah",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "Let's recap the journey and the opportunities it offers",
+            "link": "https://novelahappaddvices.blogspot.com/p/conclusion-novelah.html"
+        },
+        {
+            "id": 13,
+            "name_category": "Guide",
+            "title": "Novelah FAQ",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Sqt9_cmf_ikYPSp6kCAyCD2hn6FGXIpJgNe0_s4Q5peI6Qv0T6exq_sLvi4NcU8U_4OyoUzprwX5Zj010gs2vDeWVKzg0ho43x26MHUb2k-m1CYxixXyLhvNt94JARaxRfKlQ3-1090Gig16V7a_kO2y1pD--7xnRu5sBEANmeT1UpHRNjjg6JuRd50/w320-h320/icon.png",
+            "description": "Your Comprehensive Guide to Novelah Questions",
+            "link": "https://novelahappaddvices.blogspot.com/p/novelah-faq-your-comprehensive-guide-to.html"
+        }
+    ]
 }
