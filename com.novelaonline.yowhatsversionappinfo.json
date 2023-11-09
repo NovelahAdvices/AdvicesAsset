@@ -12,6 +12,7 @@
             {
                 "name": "off",
                 "value": 1,
+                "min_time":120,
                 "appId_appKey_publisherId_gameId": "1464727170751587",
                 "banner": "1464727170751587_1464728334084804",
                 "mrec": "-",
